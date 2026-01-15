@@ -5,17 +5,17 @@ This file contains base64-encoded poster images for all three Max Payne games th
 ## File Information
 
 - **File**: `shared.liquid`
-- **Size**: ~200KB (all three posters combined)
+- **Size**: ~94KB (all three posters combined, optimized)
 - **Format**: Base64-encoded JPEG images
 - **Purpose**: Inline poster images without requiring external URLs
 
 ## Poster Details
 
-| Poster Variable | Game | Original File | Base64 Size |
-|----------------|------|---------------|-------------|
-| `poster_max_payne_1` | Max Payne (2001) | max-payne-1.jpg | ~95KB |
-| `poster_max_payne_2` | Max Payne 2 (2003) | max-payne-2.jpg | ~54KB |
-| `poster_max_payne_3` | Max Payne 3 (2012) | max-payne-3.jpg | ~47KB |
+| Poster Variable | Game | Original File | JPEG Size | Base64 Size |
+|----------------|------|---------------|-----------|-------------|
+| `poster_max_payne_1` | Max Payne (2001) | max-payne-1.jpg | 21KB | ~29KB |
+| `poster_max_payne_2` | Max Payne 2 (2003) | max-payne-2.jpg | 28KB | ~38KB |
+| `poster_max_payne_3` | Max Payne 3 (2012) | max-payne-3.jpg | 19KB | ~26KB |
 
 ## Setup in TRMNL
 
@@ -87,7 +87,7 @@ Instead of using the `image` property from JSON, use the shared poster variables
 
 ## Disadvantages
 
-⚠️ **Larger file size** - The shared.liquid file is ~200KB
+⚠️ **Larger file size** - The shared.liquid file is ~94KB (optimized)
 ⚠️ **Not cacheable** - Base64 images can't be cached separately
 ⚠️ **Harder to update** - Need to re-run embed script for changes
 
@@ -106,6 +106,83 @@ If you add new poster images or want to update existing ones:
    python3 embed_posters.py
    ```
 4. Copy updated `shared.liquid` to TRMNL Shared tab
+
+## Updating After Image Optimization
+
+If you've optimized the poster JPEG files to reduce file size:
+
+### Step 1: Verify Optimized Image Sizes
+```bash
+cd assets/poster
+ls -lh *.jpg
+```
+
+You should see the file sizes for each poster (e.g., 21KB, 28KB, 19KB).
+
+### Step 2: Regenerate Base64 Files
+```bash
+for img in *.jpg; do base64 -i "$img" > "${img%.jpg}.base64.txt"; done
+```
+
+This converts all optimized JPEGs to base64-encoded text files.
+
+### Step 3: Update shared.liquid
+```bash
+cd /Users/hossain/dev/repos/hk-projects/trmnl-max-payne-quotes-plugin
+python3 embed_posters.py
+```
+
+The script will:
+- Read all `.base64.txt` files
+- Update the existing base64 data in `shared.liquid`
+- Report the new file size
+
+### Step 4: Verify File Size Reduction
+```bash
+ls -lh shared.liquid
+```
+
+You should see a smaller file size (e.g., ~94KB after optimization from ~200KB original).
+
+### Step 5: Update TRMNL Plugin
+
+1. Copy the updated `shared.liquid` contents
+2. Go to your TRMNL Private Plugin
+3. Navigate to the **Shared** tab
+4. Paste the new contents
+5. Click **Save**
+6. Force refresh your plugin to test
+
+### Optimization Tips
+
+- **Target file sizes**: Aim for 15-30KB per JPEG for optimal e-ink display
+- **Tools**: Use ImageOptim, JPEGmini, or online tools like TinyJPG
+- **Quality**: E-ink displays work well with 70-80% JPEG quality
+- **Progressive optimization**: Run multiple passes, checking quality each time
+- **Verify visually**: Open optimized JPEGs to ensure they still look good
+
+### Example Optimization Workflow
+
+```bash
+# 1. Check current sizes
+cd assets/poster
+ls -lh *.jpg
+
+# 2. Optimize images (using your preferred tool)
+# ... optimize max-payne-1.jpg, max-payne-2.jpg, max-payne-3.jpg ...
+
+# 3. Regenerate base64
+for img in *.jpg; do base64 -i "$img" > "${img%.jpg}.base64.txt"; done
+
+# 4. Update shared.liquid
+cd ..
+python3 embed_posters.py
+
+# 5. Verify new size
+ls -lh shared.liquid
+```
+
+The `embed_posters.py` script uses regex to update existing base64 data, so you can run it multiple times as you optimize further.
 
 ## Alternative: Using JSON Image URLs
 
