@@ -15,6 +15,15 @@ A TRMNL plugin that displays dark, noir quotes from the Max Payne trilogy on you
 - **Daily automatic updates** - GitHub Actions cron job refreshes quote at 2am UTC
 - **Random rotation** - Fresh quotes on each refresh
 
+## 📸 Demo
+
+| Layout | Preview |
+|--------|---------|
+| **Full** | <img src="assets/demo/plugin-demo-max-payne-full.png" alt="Full Layout" width="400"/> |
+| **Half Horizontal** | <img src="assets/demo/plugin-demo-max-payne-half-horizontal.png" alt="Half Horizontal Layout" width="400"/> |
+| **Half Vertical** | <img src="assets/demo/plugin-demo-max-payne-half-vertical.png" alt="Half Vertical Layout" width="400"/> |
+| **Quadrant** | <img src="assets/demo/plugin-demo-max-payne-quadrant.png" alt="Quadrant Layout" width="400"/> |
+
 ## 🚀 Setup Instructions
 
 ### Step 1: Fork/Clone this Repository
