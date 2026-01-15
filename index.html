@@ -96,8 +96,8 @@
         const baseUrl = window.location.origin + window.location.pathname.replace('/index.html', '');
         
         // Update API endpoint displays
-        document.getElementById('all-quotes-url').textContent = baseUrl + '/quotes.json';
-        document.getElementById('random-quote-url').textContent = baseUrl + '/api/random-quote.json';
+        document.getElementById('all-quotes-url').textContent = baseUrl + 'quotes.json';
+        document.getElementById('random-quote-url').textContent = baseUrl + 'api/random-quote.json';
         
         // Load and display quotes
         fetch(baseUrl + '/quotes.json')
