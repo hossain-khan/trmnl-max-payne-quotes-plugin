@@ -35,10 +35,18 @@ def embed_posters():
     with open(shared_file, 'r') as f:
         content = f.read()
     
-    # Replace placeholders
-    content = content.replace('REPLACE_WITH_MAX_PAYNE_1_BASE64', posters[1])
-    content = content.replace('REPLACE_WITH_MAX_PAYNE_2_BASE64', posters[2])
-    content = content.replace('REPLACE_WITH_MAX_PAYNE_3_BASE64', posters[3])
+    # Use regex to replace existing base64 data or placeholders
+    import re
+    
+    # Pattern to match base64 data in each capture block
+    pattern_1 = r'({%- capture poster_max_payne_1 -%}\s*data:image/jpeg;base64,)[^\s]+(\s*{%- endcapture -%})'
+    pattern_2 = r'({%- capture poster_max_payne_2 -%}\s*data:image/jpeg;base64,)[^\s]+(\s*{%- endcapture -%})'
+    pattern_3 = r'({%- capture poster_max_payne_3 -%}\s*data:image/jpeg;base64,)[^\s]+(\s*{%- endcapture -%})'
+    
+    # Replace with new base64 data
+    content = re.sub(pattern_1, r'\g<1>' + posters[1] + r'\g<2>', content)
+    content = re.sub(pattern_2, r'\g<1>' + posters[2] + r'\g<2>', content)
+    content = re.sub(pattern_3, r'\g<1>' + posters[3] + r'\g<2>', content)
     
     # Write updated file
     with open(shared_file, 'w') as f:
