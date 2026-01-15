@@ -53,20 +53,23 @@
             text-decoration: underline;
         }
         .header-icon {
-            width: 80px;
-            height: 80px;
-            display: block;
-            margin: 0 auto 20px auto;
-            border-radius: 50%;
+            width: 100px;
+            height: 100px;
+            float: left;
+            margin: 0 20px 20px 0;
             box-shadow: 0 4px 8px rgba(0,0,0,0.5);
+        }
+        .header-content {
+            overflow: auto;
         }
     </style>
 </head>
 <body>
-    <img src="assets/icon/max-payne-icon-rounded.png" alt="Max Payne Icon" class="header-icon">
-    <h1>Max Payne Quotes - TRMNL Plugin</h1>
-    
-    <p>A TRMNL plugin that displays dark, noir quotes from the Max Payne trilogy on your e-ink display.</p>
+    <div class="header-content">
+        <img src="assets/icon/max-payne-icon-rounded.png" alt="Max Payne Icon" class="header-icon">
+        <h1>Max Payne Quotes - TRMNL Plugin</h1>
+        <p>A TRMNL plugin that displays dark, noir quotes from the Max Payne trilogy on your e-ink display.</p>
+    </div>
     <p><strong>Available as a Recipe on TRMNL!</strong> Install with just a few clicks - no setup required. <a href="https://usetrmnl.com/plugins">Install Now</a></p>
     
     <div class="api-info">
