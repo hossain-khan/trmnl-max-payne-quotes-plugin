@@ -7,7 +7,7 @@ This script can be used to create the random-quote.json file for the API
 import json
 import random
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, timezone
 
 def get_random_quote():
     """Get a random quote from quotes.json"""
@@ -26,7 +26,7 @@ def save_random_quote():
     quote = get_random_quote()
     
     # Add updated_on timestamp
-    quote['updated_on'] = datetime.utcnow().isoformat() + 'Z'
+    quote['updated_on'] = datetime.now(timezone.utc).isoformat().replace('+00:00', 'Z')
     
     # Create api directory if it doesn't exist
     api_dir = Path(__file__).parent / 'api'
