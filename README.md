@@ -1,4 +1,4 @@
-# 🔫 Max Payne Quotes - TRMNL Plugin
+# Max Payne Quotes - TRMNL Plugin
 
 A TRMNL plugin that displays dark, noir quotes from the Max Payne trilogy on your e-ink display.
 
