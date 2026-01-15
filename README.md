@@ -8,6 +8,8 @@ A TRMNL plugin that displays dark, noir quotes from the Max Payne trilogy on you
 
 - **15+ iconic quotes** from Max Payne, Max Payne 2, and Max Payne 3
 - **Multiple layouts** - Full, Half Horizontal, Half Vertical, and Quadrant
+- **Dynamic text sizing** - Quotes auto-adjust to fit available space
+- **Embedded poster images** - Base64-encoded for offline functionality
 - **GitHub Pages hosting** - Free, reliable quote delivery
 - **E-ink optimized** - Uses TRMNL Framework for perfect rendering
 - **Random rotation** - Fresh quotes on each refresh
@@ -60,12 +62,14 @@ Your quotes will be available at: `https://YOUR_USERNAME.github.io/trmnl-max-pay
 ### Step 5: Add Markup Templates
 
 1. Click **Edit Markup** on your plugin
-2. Copy content from each `.liquid` file to corresponding tab:
+2. **IMPORTANT**: Copy `templates/shared.liquid` to the **Shared** tab FIRST
+   - This contains base64-encoded poster images used by all layouts
+3. Copy content from each layout `.liquid` file to corresponding tab:
    - `templates/full.liquid` → **Full** tab
    - `templates/half_horizontal.liquid` → **Half Horizontal** tab
    - `templates/half_vertical.liquid` → **Half Vertical** tab
    - `templates/quadrant.liquid` → **Quadrant** tab
-3. Click **Save** and **Force Refresh** to test
+4. Click **Save** and **Force Refresh** to test
 
 ### Step 6: Add to Playlist
 
@@ -82,10 +86,11 @@ The plugin expects JSON in this format:
 {
   "text": "Quote text here",
   "character": "Max Payne",
-  "game": "Max Payne",
-  "image": "https://url-to-image.png"
+  "game": "Max Payne"
 }
 ```
+
+**Note**: Poster images are embedded as base64 in `templates/shared.liquid` and selected conditionally based on the `game` property.
 
 ## 🎨 Customization
 
@@ -97,10 +102,14 @@ Edit [quotes.json](quotes.json) and add new entries:
 {
   "text": "Your new quote here",
   "character": "Character name",
-  "game": "Max Payne 3",
-  "image": "https://your-image-url.png"
+  "game": "Max Payne 3"
 }
 ```
+
+The `game` property determines which poster image is displayed:
+- `"Max Payne"` → Shows Max Payne 1 poster
+- `"Max Payne 2"` → Shows Max Payne 2 poster
+- `"Max Payne 3"` → Shows Max Payne 3 poster
 
 ### Changing Refresh Rate
 
@@ -113,8 +122,10 @@ refresh_interval: 1440  # minutes (1440 = 24 hours)
 
 The liquid templates use:
 - **Font**: `Courier New` monospace (noir/typewriter aesthetic)
-- **TRMNL Framework**: Grid system, responsive utilities
+- **TRMNL Framework**: Grid system, gap utilities, responsive layouts
 - **Quote marks**: SVG icons for visual appeal
+- **Dynamic text sizing**: Auto-adjusts font size based on quote length using `data-value-fit`
+- **Optimized images**: Base64-encoded posters (~94KB total) for offline functionality
 
 ## 📁 Project Structure
 
