@@ -1,8 +1,5 @@
-<div align="center">
-  <img src="assets/icon/max-payne-icon-rounded.png" alt="Max Payne Icon" width="120"/>
-</div>
-
 # Max Payne Quotes - TRMNL Plugin
+<img src="assets/icon/max-payne-icon-rounded.png" align="right" alt="Max Payne Icon" width="120"/>
 
 A TRMNL plugin that displays dark, noir quotes from the Max Payne trilogy on your e-ink display.
 
