@@ -131,7 +131,7 @@ When contributing, keep these in mind:
 
 Not sure where to start? Try:
 
-- [ ] Add more quotes (target: 50+ total)
+- [ ] Add more quotes (current: 39, target: 50+ total)
 - [ ] Create custom game poster artwork
 - [ ] Improve mobile responsiveness of index.html
 - [ ] Add quote categories/filtering

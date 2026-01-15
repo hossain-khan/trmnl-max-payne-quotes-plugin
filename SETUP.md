@@ -111,7 +111,7 @@ If you plan to publish this as a TRMNL Recipe, add the `author_bio` field:
     Max Payne Quotes brings the iconic noir dialogue from the legendary Max Payne trilogy directly to your TRMNL device.
     <br><br>
     <strong>Features:</strong><br>
-    🎮 36 authentic quotes from Max Payne, Max Payne 2, and Max Payne 3<br>
+    🎮 39 authentic quotes from Max Payne, Max Payne 2, and Max Payne 3<br>
     🗨️ Noir-style typography with Courier New monospace font<br>
     📱 Optimized layouts for all TRMNL view sizes<br>
     🎨 Game-specific poster artwork for visual atmosphere<br>
@@ -124,7 +124,7 @@ If you plan to publish this as a TRMNL Recipe, add the `author_bio` field:
     <br><br>
     All quotes are verified authentic from Wikiquote and capture the philosophical, dark, and action-packed moments that made Max Payne an iconic character in gaming.
     <br><br>
-    <strong>Quote Database:</strong> 36 quotes (13 Max Payne, 11 Max Payne 2, 11 Max Payne 3, 1 Mona Sax)
+    <strong>Quote Database:</strong> 39 quotes verified from Wikiquote (35 Max Payne across trilogy, 4 Mona Sax)
   github_url: https://github.com/hossain-khan/trmnl-max-payne-quotes-plugin
   learn_more_url: https://hossain-khan.github.io/trmnl-max-payne-quotes-plugin/
   email_address: trmnl@hossain.dev
@@ -168,8 +168,10 @@ If you plan to publish this as a TRMNL Recipe, add the `author_bio` field:
 
 Your TRMNL should now display Max Payne quotes. The plugin will:
 - Fetch a new quote every 24 hours (or your configured interval)
-- Display quotes in noir-style typography
-- Rotate through all 15+ quotes randomly
+- Automatically update with GitHub Actions daily at 2am UTC
+- Display quotes in noir-style Courier New typography
+- Rotate through all 39 quotes randomly
+- Show character attribution (Max Payne or Mona Sax)
 
 ## 🐛 Troubleshooting
 

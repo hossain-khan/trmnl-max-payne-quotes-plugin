@@ -6,12 +6,13 @@ A TRMNL plugin that displays dark, noir quotes from the Max Payne trilogy on you
 
 ## 📋 Features
 
-- **15+ iconic quotes** from Max Payne, Max Payne 2, and Max Payne 3
+- **39 authentic quotes** verified from Wikiquote (35 Max Payne, 4 Mona Sax)
 - **Multiple layouts** - Full, Half Horizontal, Half Vertical, and Quadrant
-- **Dynamic text sizing** - Quotes auto-adjust to fit available space
-- **Embedded poster images** - Base64-encoded for offline functionality
+- **Dynamic text sizing** - Quotes auto-adjust to fit available space with proper padding
+- **Embedded poster images** - Base64-encoded game-specific posters for offline functionality
 - **GitHub Pages hosting** - Free, reliable quote delivery
-- **E-ink optimized** - Uses TRMNL Framework for perfect rendering
+- **E-ink optimized** - Uses TRMNL Framework with pixel-perfect rendering
+- **Daily automatic updates** - GitHub Actions cron job refreshes quote at 2am UTC
 - **Random rotation** - Fresh quotes on each refresh
 
 ## 🚀 Setup Instructions
