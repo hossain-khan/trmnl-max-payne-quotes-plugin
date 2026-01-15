@@ -2,6 +2,16 @@
 
 Thank you for your interest in contributing! This plugin is designed to showcase quotes from the Max Payne trilogy on TRMNL e-ink displays.
 
+## 🛠️ For Developers
+
+Want to customize or self-host this plugin? See [SETUP.md](SETUP.md) for detailed instructions on:
+- Forking and customizing the plugin
+- Setting up your own GitHub Pages deployment
+- Adding custom quotes
+- Modifying layouts and styling
+
+Once you have your development environment set up, come back here for contribution guidelines.
+
 ## 🎯 How to Contribute
 
 ### Adding Quotes

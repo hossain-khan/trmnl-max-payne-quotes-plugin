@@ -53,14 +53,6 @@ This plugin is available as a public Recipe on TRMNL. Just install and add to yo
 
 Learn more about [Plugin Recipes](https://help.usetrmnl.com/en/articles/10122094-plugin-recipes)
 
-## 🛠️ For Developers
-
-Want to customize or self-host this plugin? See [SETUP.md](SETUP.md) for detailed instructions on:
-- Forking and customizing the plugin
-- Setting up your own GitHub Pages deployment
-- Adding custom quotes
-- Modifying layouts and styling
-
 ## 🎨 How It Works
 
 The plugin displays quotes in the following format:
