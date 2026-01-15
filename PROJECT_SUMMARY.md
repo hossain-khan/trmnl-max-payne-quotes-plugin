@@ -18,7 +18,7 @@ trmnl-max-payne-quotes-plugin/
 │   │   └── shared.liquid         # Shared variables (posters, icons)
 │
 ├── 📊 Data Files
-│   ├── quotes.json               # All 15 Max Payne quotes
+│   ├── quotes.json               # All 39 Max Payne quotes
 │   └── api/
 │       └── random-quote.json     # Single random quote endpoint
 │
@@ -32,7 +32,8 @@ trmnl-max-payne-quotes-plugin/
 │
 ├── 🛠️ Automation
 │   ├── .github/workflows/
-│   │   └── deploy.yml           # Auto-deploy to GitHub Pages
+│   │   ├── static.yml             # Auto-deploy to GitHub Pages
+│   │   └── update-random-quote.yml # Daily random quote updates
 │   ├── generate_random_quote.py  # Generate random quotes
 │   └── setup.sh                  # Quick setup script
 │
@@ -100,7 +101,7 @@ Wait 2-5 minutes, then visit:
 ### 🎯 What It Does
 
 - ✅ Displays random Max Payne quotes on TRMNL e-ink display
-- ✅ 15+ authentic quotes from all 3 games
+- ✅ 39 authentic quotes from all 3 games
 - ✅ 4 different layout sizes (full, half-h, half-v, quadrant)
 - ✅ Noir-style typography with Courier New monospace
 - ✅ Auto-refreshes daily (configurable)
@@ -170,9 +171,9 @@ Edit any `.liquid` file:
 ### Add Game Posters
 
 1. Add images to `assets/poster/`:
-   - `maxpayne1.png`
-   - `maxpayne2.png`
-   - `maxpayne3.png`
+   - `max-payne-1.jpg`
+   - `max-payne-2.jpg`
+   - `max-payne-3.jpg`
 2. Update URLs in `quotes.json` and `.liquid` files
 3. See [assets/README.md](assets/README.md) for guidelines
 
@@ -208,10 +209,10 @@ Prompts for GitHub username and email, updates all files automatically.
 
 ## 📊 Sample Quotes Included
 
-✅ 15 authentic quotes from:
-- **Max Payne** (2001)
-- **Max Payne 2: The Fall of Max Payne** (2003)
-- **Max Payne 3** (2012)
+✅ 39 authentic quotes from:
+- **Max Payne** (2001) - 12 quotes
+- **Max Payne 2: The Fall of Max Payne** (2003) - 16 quotes
+- **Max Payne 3** (2012) - 11 quotes
 
 Including classics like:
 - "They were all dead..."

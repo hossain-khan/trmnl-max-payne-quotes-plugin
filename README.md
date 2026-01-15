@@ -143,7 +143,8 @@ The liquid templates use:
 trmnl-max-payne-quotes-plugin/
 ├── .github/
 │   └── workflows/
-│       └── deploy.yml          # GitHub Actions for Pages deployment
+│       ├── static.yml              # GitHub Actions for Pages deployment
+│       └── update-random-quote.yml # Daily random quote updates
 ├── api/
 │   └── random-quote.json       # Single quote endpoint (for TRMNL polling)
 ├── assets/
