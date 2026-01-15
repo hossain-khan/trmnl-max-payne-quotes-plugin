@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Max Payne Quotes - TRMNL Plugin</title>
+    <style>
+        body {
+            font-family: 'Courier New', monospace;
+            background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+            color: #e0e0e0;
+            padding: 40px;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        h1 {
+            color: #ff4444;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+        }
+        .quote {
+            background: rgba(0,0,0,0.3);
+            padding: 20px;
+            margin: 20px 0;
+            border-left: 4px solid #ff4444;
+            border-radius: 4px;
+        }
+        .quote-text {
+            font-size: 1.1em;
+            font-style: italic;
+            margin-bottom: 10px;
+        }
+        .quote-meta {
+            color: #888;
+            font-size: 0.9em;
+        }
+        .api-info {
+            background: rgba(255,68,68,0.1);
+            padding: 20px;
+            border-radius: 4px;
+            margin: 20px 0;
+        }
+        code {
+            background: rgba(0,0,0,0.5);
+            padding: 2px 6px;
+            border-radius: 3px;
+            color: #4af;
+        }
+        a {
+            color: #ff4444;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>🔫 Max Payne Quotes - TRMNL Plugin</h1>
+    
+    <p>A TRMNL plugin that displays dark, noir quotes from the Max Payne trilogy on your e-ink display.</p>
+    
+    <div class="api-info">
+        <h2>📡 API Endpoints</h2>
+        <p><strong>All Quotes:</strong> <code id="all-quotes-url">Loading...</code></p>
+        <p><strong>Random Quote:</strong> <code id="random-quote-url">Loading...</code></p>
+    </div>
+
+    <div class="api-info">
+        <h2>🔧 Setup Instructions</h2>
+        <ol>
+            <li>Fork or clone this repository</li>
+            <li>Update the GitHub username placeholders in the configuration files</li>
+            <li>Enable GitHub Pages in your repository settings (Settings → Pages → Deploy from branch: main)</li>
+            <li>Create a Private Plugin in TRMNL using the polling strategy</li>
+            <li>Set the polling URL to: <code id="setup-url">your-username.github.io/trmnl-max-payne-quotes-plugin/api/random-quote.json</code></li>
+            <li>Copy the liquid templates to the markup editor</li>
+        </ol>
+    </div>
+
+    <h2>📜 Sample Quotes</h2>
+    <div id="quotes-container">
+        <p>Loading quotes...</p>
+    </div>
+
+    <div class="api-info">
+        <h2>📚 Resources</h2>
+        <ul>
+            <li><a href="https://help.usetrmnl.com/en/articles/9510536-private-plugins">TRMNL Private Plugins Guide</a></li>
+            <li><a href="https://usetrmnl.com/framework">TRMNL Framework Documentation</a></li>
+            <li><a href="https://github.com/YOUR_GITHUB_USERNAME/trmnl-max-payne-quotes-plugin">GitHub Repository</a></li>
+        </ul>
+    </div>
+
+    <script>
+        // Get the current page URL
+        const baseUrl = window.location.origin + window.location.pathname.replace('/index.html', '');
+        
+        // Update API endpoint displays
+        document.getElementById('all-quotes-url').textContent = baseUrl + '/quotes.json';
+        document.getElementById('random-quote-url').textContent = baseUrl + '/api/random-quote.json';
+        
+        // Load and display quotes
+        fetch(baseUrl + '/quotes.json')
+            .then(response => response.json())
+            .then(data => {
+                const container = document.getElementById('quotes-container');
+                container.innerHTML = '';
+                
+                // Display first 5 quotes as samples
+                data.quotes.slice(0, 5).forEach(quote => {
+                    const quoteDiv = document.createElement('div');
+                    quoteDiv.className = 'quote';
+                    quoteDiv.innerHTML = `
+                        <div class="quote-text">"${quote.text}"</div>
+                        <div class="quote-meta">— ${quote.character}, ${quote.game}</div>
+                    `;
+                    container.appendChild(quoteDiv);
+                });
+            })
+            .catch(error => {
+                console.error('Error loading quotes:', error);
+                document.getElementById('quotes-container').innerHTML = '<p>Error loading quotes.</p>';
+            });
+    </script>
+</body>
+</html>
