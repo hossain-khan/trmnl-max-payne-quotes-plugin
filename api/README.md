@@ -125,5 +125,5 @@ Check if the automation is working:
 
 **Related Documentation:**
 - [Main README](../README.md)
-- [Setup Guide](../SETUP.md)
-- [Contributing Guide](../CONTRIBUTING.md)
+- [Setup Guide](../docs/SETUP.md)
+- [Contributing Guide](../docs/CONTRIBUTING.md)

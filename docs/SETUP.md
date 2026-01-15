@@ -1,6 +1,6 @@
 # Developer Setup Guide
 
-> **Note:** This guide is for developers who want to fork and customize this plugin. If you just want to use the plugin, simply install it as a Recipe from [TRMNL Plugins](https://usetrmnl.com/plugins) - no setup required! See the [README](README.md) for installation instructions.
+> **Note:** This guide is for developers who want to fork and customize this plugin. If you just want to use the plugin, simply install it as a Recipe from [TRMNL Plugins](https://usetrmnl.com/plugins) - no setup required! See the [README](../README.md) for installation instructions.
 
 Follow these steps to fork and customize your Max Payne Quotes plugin.
 

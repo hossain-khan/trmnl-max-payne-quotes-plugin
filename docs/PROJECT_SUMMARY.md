@@ -181,10 +181,10 @@ Edit any `.liquid` file:
 
 | File | Purpose |
 |------|---------|
-| [README.md](README.md) | Main project overview & instructions |
+| [README.md](../README.md) | Main project overview & instructions |
 | [SETUP.md](SETUP.md) | Detailed step-by-step setup checklist |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | Guidelines for contributors |
-| [assets/README.md](assets/README.md) | Image guidelines & optimization tips |
+| [assets/README.md](../assets/README.md) | Image guidelines & optimization tips |
 
 ## 🛠️ Tools Included
 
