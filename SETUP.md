@@ -106,7 +106,7 @@ If you plan to publish this as a TRMNL Recipe, add the `author_bio` field:
 - keyname: author_bio
   name: About This Plugin
   field_type: author_bio
-  category: entertainment,gaming
+  category: entertainment,games
   description: |
     Max Payne Quotes brings the iconic noir dialogue from the legendary Max Payne trilogy directly to your TRMNL device.
     <br><br>
