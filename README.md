@@ -24,73 +24,46 @@ A TRMNL plugin that displays dark, noir quotes from the Max Payne trilogy on you
 | **Half Vertical** | <img src="assets/demo/plugin-demo-max-payne-half-vertical.png" alt="Half Vertical Layout" width="400"/> |
 | **Quadrant** | <img src="assets/demo/plugin-demo-max-payne-quadrant.png" alt="Quadrant Layout" width="400"/> |
 
-## 🚀 Setup Instructions
+## 🚀 Quick Start
 
-### Step 1: Fork/Clone this Repository
+This plugin is available as a public Recipe on TRMNL. Just install and add to your playlist!
 
-```bash
-git clone https://github.com/hossain-khan/trmnl-max-payne-quotes-plugin.git
-cd trmnl-max-payne-quotes-plugin
-```
+### Installation (3 Steps)
 
-### Step 2: Update Configuration
+1. **Install the Recipe**
+   - Visit [TRMNL Plugins](https://usetrmnl.com/plugins)
+   - Scroll to **Recipes** section
+   - Search for "Max Payne Quotes"
+   - Click **Install**
 
-Replace `YOUR_GITHUB_USERNAME` in these files:
-- [settings.yml](settings.yml)
-- [templates/full.liquid](templates/full.liquid)
-- [templates/half_horizontal.liquid](templates/half_horizontal.liquid)
-- [templates/half_vertical.liquid](templates/half_vertical.liquid)
-- [templates/quadrant.liquid](templates/quadrant.liquid)
-- [quotes.json](quotes.json)
-- [index.html](index.html)
+2. **Add to Playlist**
+   - Go to [Playlists](https://usetrmnl.com/playlists)
+   - Click **Edit** on your playlist
+   - Add "Max Payne Quotes"
+   - Select your preferred layout (Full, Half Horizontal, Half Vertical, or Quadrant)
+   - Save
 
-Also update `YOUR_EMAIL@example.com` in [settings.yml](settings.yml)
+3. **Enjoy!**
+   - Your TRMNL will automatically display a new quote every 24 hours
 
-### Step 3: Enable GitHub Pages
+### Install vs Fork
 
-1. Go to your repository **Settings** → **Pages**
-2. Under "Build and deployment":
-   - Source: **Deploy from a branch**
-   - Branch: **main** / **(root)**
-3. Click **Save**
-4. Wait a few minutes for deployment
+- **Install** (recommended): Get automatic updates when new quotes or improvements are added
+- **Fork** (requires Developer Edition): Customize the markup, quotes, or styling to your preference
 
-Your quotes will be available at: `https://hossain-khan.github.io/trmnl-max-payne-quotes-plugin/`
+Learn more about [Plugin Recipes](https://help.usetrmnl.com/en/articles/10122094-plugin-recipes)
 
-### Step 4: Create TRMNL Private Plugin
+## 🛠️ For Developers
 
-1. Log into [TRMNL](https://usetrmnl.com) (requires Developer Edition)
-2. Navigate to **Plugins** → Search for "**Private Plugin**"
-3. Click "Create a Private Plugin"
-4. Configure:
-   - **Name**: Max Payne Quotes
-   - **Strategy**: Polling
-   - **Polling URL**: `https://hossain-khan.github.io/trmnl-max-payne-quotes-plugin/api/random-quote.json`
-   - **Refresh Interval**: 1440 minutes (daily)
-5. Click **Save**
+Want to customize or self-host this plugin? See [SETUP.md](SETUP.md) for detailed instructions on:
+- Forking and customizing the plugin
+- Setting up your own GitHub Pages deployment
+- Adding custom quotes
+- Modifying layouts and styling
 
-### Step 5: Add Markup Templates
+## 🎨 How It Works
 
-1. Click **Edit Markup** on your plugin
-2. **IMPORTANT**: Copy `templates/shared.liquid` to the **Shared** tab FIRST
-   - This contains base64-encoded poster images used by all layouts
-3. Copy content from each layout `.liquid` file to corresponding tab:
-   - `templates/full.liquid` → **Full** tab
-   - `templates/half_horizontal.liquid` → **Half Horizontal** tab
-   - `templates/half_vertical.liquid` → **Half Vertical** tab
-   - `templates/quadrant.liquid` → **Quadrant** tab
-4. Click **Save** and **Force Refresh** to test
-
-### Step 6: Add to Playlist
-
-1. Go to **Playlists**
-2. Add your "Max Payne Quotes" plugin
-3. Choose your preferred layout
-4. Save and enjoy!
-
-## 📊 Data Structure
-
-The plugin expects JSON in this format:
+The plugin displays quotes in the following format:
 
 ```json
 {
@@ -100,42 +73,18 @@ The plugin expects JSON in this format:
 }
 ```
 
-**Note**: Poster images are embedded as base64 in `templates/shared.liquid` and selected conditionally based on the `game` property.
+**Features:**
+- Game-specific poster artwork (Max Payne 1, 2, or 3) embedded as base64
+- Dynamic text sizing that adapts to quote length
+- Noir-style Courier New typography
+- Optimized for e-ink displays with pixel-perfect rendering
 
-## 🎨 Customization
+### Quote Rotation
 
-### Adding More Quotes
+The plugin automatically fetches a new random quote every 24 hours via:
+`https://hossain-khan.github.io/trmnl-max-payne-quotes-plugin/api/random-quote.json`
 
-Edit [quotes.json](quotes.json) and add new entries:
-
-```json
-{
-  "text": "Your new quote here",
-  "character": "Character name",
-  "game": "Max Payne 3"
-}
-```
-
-The `game` property determines which poster image is displayed:
-- `"Max Payne"` → Shows Max Payne 1 poster
-- `"Max Payne 2"` → Shows Max Payne 2 poster
-- `"Max Payne 3"` → Shows Max Payne 3 poster
-
-### Changing Refresh Rate
-
-Edit [settings.yml](settings.yml):
-```yaml
-refresh_interval: 1440  # minutes (1440 = 24 hours)
-```
-
-### Styling
-
-The liquid templates use:
-- **Font**: `Courier New` monospace (noir/typewriter aesthetic)
-- **TRMNL Framework**: Grid system, gap utilities, responsive layouts
-- **Quote marks**: SVG icons for visual appeal
-- **Dynamic text sizing**: Auto-adjusts font size based on quote length using `data-value-fit`
-- **Optimized images**: Base64-encoded posters (~94KB total) for offline functionality
+A GitHub Actions workflow updates this endpoint daily at 2am UTC.
 
 ## 📁 Project Structure
 
@@ -169,11 +118,12 @@ Once deployed to GitHub Pages:
 - **All Quotes**: `https://hossain-khan.github.io/trmnl-max-payne-quotes-plugin/quotes.json`
 - **Random Quote**: `https://hossain-khan.github.io/trmnl-max-payne-quotes-plugin/api/random-quote.json`
 
-## 📚 Documentation
+## 📚 Resources
 
-- [TRMNL Private Plugins Guide](https://help.usetrmnl.com/en/articles/9510536-private-plugins)
-- [TRMNL Framework Docs](https://usetrmnl.com/framework)
-- [Liquid Templating 101](https://help.usetrmnl.com/en/articles/10671186-liquid-101)
+- [Plugin Recipe on TRMNL](https://usetrmnl.com/recipes) - Install this plugin
+- [Plugin Recipes Guide](https://help.usetrmnl.com/en/articles/10122094-plugin-recipes) - Learn about Recipes
+- [TRMNL Framework Docs](https://usetrmnl.com/framework) - Styling reference
+- [Setup Guide](SETUP.md) - For developers who want to fork/customize
 
 ## 🎮 About Max Payne
 
@@ -185,7 +135,12 @@ See [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contributing
 
-Feel free to submit issues or pull requests to add more quotes, improve layouts, or enhance functionality!
+Contributions are welcome! You can:
+- Submit new authentic quotes from the Max Payne trilogy
+- Report issues or suggest improvements
+- Fork the Recipe to create your own variation
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
