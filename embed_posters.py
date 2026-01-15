@@ -13,7 +13,7 @@ def embed_posters():
     # Paths
     project_root = Path(__file__).parent
     poster_dir = project_root / 'assets' / 'poster'
-    shared_file = project_root / 'shared.liquid'
+    shared_file = project_root / 'templates' / 'shared.liquid'
     
     # Read base64 files
     posters = {}

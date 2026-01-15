@@ -24,10 +24,10 @@ cd trmnl-max-payne-quotes-plugin
 Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username in:
 
 - [ ] `settings.yml` (line 7)
-- [ ] `full.liquid` (line 17)
-- [ ] `half_horizontal.liquid` (line 16)
-- [ ] `half_vertical.liquid` (line 20)
-- [ ] `quadrant.liquid` (line 13)
+- [ ] `templates/full.liquid` (line 17)
+- [ ] `templates/half_horizontal.liquid` (line 16)
+- [ ] `templates/half_vertical.liquid` (line 20)
+- [ ] `templates/quadrant.liquid` (line 13)
 - [ ] `quotes.json` (all image URLs)
 - [ ] `api/random-quote.json` (image URL)
 - [ ] `index.html` (line 79)
@@ -102,10 +102,10 @@ git push origin main
 
 1. [ ] Click **Edit Markup** button
 2. [ ] Copy content from each file to corresponding tab:
-   - `full.liquid` → **Full** tab
-   - `half_horizontal.liquid` → **Half Horizontal** tab
-   - `half_vertical.liquid` → **Half Vertical** tab
-   - `quadrant.liquid` → **Quadrant** tab
+   - `templates/full.liquid` → **Full** tab
+   - `templates/half_horizontal.liquid` → **Half Horizontal** tab
+   - `templates/half_vertical.liquid` → **Half Vertical** tab
+   - `templates/quadrant.liquid` → **Quadrant** tab
 3. [ ] Click **Save** after each template
 4. [ ] Click **Force Refresh** to test
 

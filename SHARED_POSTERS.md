@@ -4,7 +4,7 @@ This file contains base64-encoded poster images for all three Max Payne games th
 
 ## File Information
 
-- **File**: `shared.liquid`
+- **File**: `templates/shared.liquid`
 - **Size**: ~94KB (all three posters combined, optimized)
 - **Format**: Base64-encoded JPEG images
 - **Purpose**: Inline poster images without requiring external URLs
@@ -19,7 +19,7 @@ This file contains base64-encoded poster images for all three Max Payne games th
 
 ## Setup in TRMNL
 
-1. Copy the entire contents of `shared.liquid`
+1. Copy the entire contents of `templates/shared.liquid`
 2. In TRMNL markup editor, go to the **"Shared"** tab
 3. Paste the contents
 4. Click **Save**
@@ -87,7 +87,7 @@ Instead of using the `image` property from JSON, use the shared poster variables
 
 ## Disadvantages
 
-⚠️ **Larger file size** - The shared.liquid file is ~94KB (optimized)
+⚠️ **Larger file size** - The templates/shared.liquid file is ~94KB (optimized)
 ⚠️ **Not cacheable** - Base64 images can't be cached separately
 ⚠️ **Harder to update** - Need to re-run embed script for changes
 
@@ -105,7 +105,7 @@ If you add new poster images or want to update existing ones:
    ```bash
    python3 embed_posters.py
    ```
-4. Copy updated `shared.liquid` to TRMNL Shared tab
+4. Copy updated `templates/shared.liquid` to TRMNL Shared tab
 
 ## Updating After Image Optimization
 
@@ -134,19 +134,19 @@ python3 embed_posters.py
 
 The script will:
 - Read all `.base64.txt` files
-- Update the existing base64 data in `shared.liquid`
+- Update the existing base64 data in `templates/shared.liquid`
 - Report the new file size
 
 ### Step 4: Verify File Size Reduction
 ```bash
-ls -lh shared.liquid
+ls -lh templates/shared.liquid
 ```
 
 You should see a smaller file size (e.g., ~94KB after optimization from ~200KB original).
 
 ### Step 5: Update TRMNL Plugin
 
-1. Copy the updated `shared.liquid` contents
+1. Copy the updated `templates/shared.liquid` contents
 2. Go to your TRMNL Private Plugin
 3. Navigate to the **Shared** tab
 4. Paste the new contents
@@ -179,7 +179,7 @@ cd ..
 python3 embed_posters.py
 
 # 5. Verify new size
-ls -lh shared.liquid
+ls -lh templates/shared.liquid
 ```
 
 The `embed_posters.py` script uses regex to update existing base64 data, so you can run it multiple times as you optimize further.
@@ -203,7 +203,7 @@ And in templates:
 
 ## Recommendation
 
-**Use shared.liquid posters if:**
+**Use templates/shared.liquid posters if:**
 - You want completely self-contained templates
 - You're worried about GitHub Pages availability
 - You don't plan to change images frequently
@@ -224,7 +224,13 @@ assets/poster/
 ├── max-payne-3.jpg
 └── max-payne-3.base64.txt
 
-shared.liquid                     # Template with embedded posters
+templates/
+├── shared.liquid                 # Template with embedded posters
+├── full.liquid                   # Full screen layout
+├── half_horizontal.liquid        # Half horizontal layout
+├── half_vertical.liquid          # Half vertical layout
+└── quadrant.liquid               # Quadrant layout
+
 embed_posters.py                  # Script to generate shared.liquid
 SHARED_POSTERS.md                # This documentation file
 ```

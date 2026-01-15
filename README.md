@@ -25,10 +25,10 @@ cd trmnl-max-payne-quotes-plugin
 
 Replace `YOUR_GITHUB_USERNAME` in these files:
 - [settings.yml](settings.yml)
-- [full.liquid](full.liquid)
-- [half_horizontal.liquid](half_horizontal.liquid)
-- [half_vertical.liquid](half_vertical.liquid)
-- [quadrant.liquid](quadrant.liquid)
+- [templates/full.liquid](templates/full.liquid)
+- [templates/half_horizontal.liquid](templates/half_horizontal.liquid)
+- [templates/half_vertical.liquid](templates/half_vertical.liquid)
+- [templates/quadrant.liquid](templates/quadrant.liquid)
 - [quotes.json](quotes.json)
 - [index.html](index.html)
 
@@ -61,10 +61,10 @@ Your quotes will be available at: `https://YOUR_USERNAME.github.io/trmnl-max-pay
 
 1. Click **Edit Markup** on your plugin
 2. Copy content from each `.liquid` file to corresponding tab:
-   - `full.liquid` → **Full** tab
-   - `half_horizontal.liquid` → **Half Horizontal** tab
-   - `half_vertical.liquid` → **Half Vertical** tab
-   - `quadrant.liquid` → **Quadrant** tab
+   - `templates/full.liquid` → **Full** tab
+   - `templates/half_horizontal.liquid` → **Half Horizontal** tab
+   - `templates/half_vertical.liquid` → **Half Vertical** tab
+   - `templates/quadrant.liquid` → **Quadrant** tab
 3. Click **Save** and **Force Refresh** to test
 
 ### Step 6: Add to Playlist
@@ -128,10 +128,12 @@ trmnl-max-payne-quotes-plugin/
 ├── assets/
 │   ├── poster/                 # Game poster images
 │   └── raw/                    # Raw/source assets
-├── full.liquid                 # Full screen layout template
-├── half_horizontal.liquid      # Half horizontal layout
-├── half_vertical.liquid        # Half vertical layout
-├── quadrant.liquid             # Quadrant/quarter screen layout
+├── templates/                  # Liquid template files
+│   ├── full.liquid             # Full screen layout template
+│   ├── half_horizontal.liquid  # Half horizontal layout
+│   ├── half_vertical.liquid    # Half vertical layout
+│   ├── quadrant.liquid         # Quadrant/quarter screen layout
+│   └── shared.liquid           # Shared variables (posters, icons)
 ├── settings.yml                # TRMNL plugin configuration
 ├── quotes.json                 # All quotes database
 ├── index.html                  # GitHub Pages landing page

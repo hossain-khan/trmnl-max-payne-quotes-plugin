@@ -10,10 +10,12 @@ Your TRMNL plugin for Max Payne quotes is now complete and ready to deploy!
 trmnl-max-payne-quotes-plugin/
 ├── 📄 Core Plugin Files
 │   ├── settings.yml              # Plugin configuration for TRMNL
-│   ├── full.liquid               # Full screen layout template
-│   ├── half_horizontal.liquid    # Half horizontal layout
-│   ├── half_vertical.liquid      # Half vertical layout
-│   └── quadrant.liquid           # Quadrant/quarter screen layout
+│   ├── templates/                # Liquid template files
+│   │   ├── full.liquid           # Full screen layout template
+│   │   ├── half_horizontal.liquid # Half horizontal layout
+│   │   ├── half_vertical.liquid  # Half vertical layout
+│   │   ├── quadrant.liquid       # Quadrant/quarter screen layout
+│   │   └── shared.liquid         # Shared variables (posters, icons)
 │
 ├── 📊 Data Files
 │   ├── quotes.json               # All 15 Max Payne quotes
