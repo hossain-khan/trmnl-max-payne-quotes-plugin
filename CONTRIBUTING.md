@@ -12,7 +12,64 @@ Want to customize or self-host this plugin? See [SETUP.md](SETUP.md) for detaile
 
 Once you have your development environment set up, come back here for contribution guidelines.
 
-## 🎯 How to Contribute
+## � How It Works
+
+The plugin displays quotes in the following format:
+
+```json
+{
+  "text": "Quote text here",
+  "character": "Max Payne",
+  "game": "Max Payne"
+}
+```
+
+**Features:**
+- Game-specific poster artwork (Max Payne 1, 2, or 3) embedded as base64
+- Dynamic text sizing that adapts to quote length
+- Noir-style Courier New typography
+- Optimized for e-ink displays with pixel-perfect rendering
+
+### Quote Rotation
+
+The plugin automatically fetches a new random quote every 24 hours via:
+`https://hossain-khan.github.io/trmnl-max-payne-quotes-plugin/api/random-quote.json`
+
+A GitHub Actions workflow updates this endpoint daily at 2am UTC.
+
+## 📁 Project Structure
+
+```
+trmnl-max-payne-quotes-plugin/
+├── .github/
+│   └── workflows/
+│       ├── static.yml              # GitHub Actions for Pages deployment
+│       └── update-random-quote.yml # Daily random quote updates
+├── api/
+│   └── random-quote.json       # Single quote endpoint (for TRMNL polling)
+├── assets/
+│   ├── poster/                 # Game poster images
+│   └── raw/                    # Raw/source assets
+├── templates/                  # Liquid template files
+│   ├── full.liquid             # Full screen layout template
+│   ├── half_horizontal.liquid  # Half horizontal layout
+│   ├── half_vertical.liquid    # Half vertical layout
+│   ├── quadrant.liquid         # Quadrant/quarter screen layout
+│   └── shared.liquid           # Shared variables (posters, icons)
+├── settings.yml                # TRMNL plugin configuration
+├── quotes.json                 # All quotes database
+├── index.html                  # GitHub Pages landing page
+└── README.md                   # This file
+```
+
+### API Endpoints
+
+Once deployed to GitHub Pages:
+
+- **All Quotes**: `https://hossain-khan.github.io/trmnl-max-payne-quotes-plugin/quotes.json`
+- **Random Quote**: `https://hossain-khan.github.io/trmnl-max-payne-quotes-plugin/api/random-quote.json`
+
+## �🎯 How to Contribute
 
 ### Adding Quotes
 
