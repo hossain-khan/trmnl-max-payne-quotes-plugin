@@ -7,9 +7,9 @@ This directory contains images used by the Max Payne Quotes plugin.
 ```
 assets/
 ├── poster/          # Game poster/cover art images
-│   ├── maxpayne1.png
-│   ├── maxpayne2.png
-│   └── maxpayne3.png
+│   ├── max-payne-1.jpg
+│   ├── max-payne-2.jpg
+│   └── max-payne-3.jpg
 ├── raw/            # Original/source images before processing
 └── icon.png        # Plugin icon (32x32 or 64x64 recommended)
 ```
@@ -20,9 +20,9 @@ assets/
 
 1. Find or create square images (recommended: 400x400px or 800x800px)
 2. Save them as:
-   - `poster/maxpayne1.png` - Max Payne (2001)
-   - `poster/maxpayne2.png` - Max Payne 2: The Fall of Max Payne (2003)
-   - `poster/maxpayne3.png` - Max Payne 3 (2012)
+   - `poster/max-payne-1.jpg` - Max Payne (2001)
+   - `poster/max-payne-2.jpg` - Max Payne 2: The Fall of Max Payne (2003)
+   - `poster/max-payne-3.jpg` - Max Payne 3 (2012)
 
 ### Plugin Icon
 
@@ -58,9 +58,9 @@ Update these URLs in the `.liquid` files after adding your images:
 Icon: https://raw.githubusercontent.com/YOUR_USERNAME/trmnl-max-payne-quotes-plugin/main/assets/icon.png
 
 Posters:
-- Max Payne 1: https://raw.githubusercontent.com/YOUR_USERNAME/trmnl-max-payne-quotes-plugin/main/assets/poster/maxpayne1.png
-- Max Payne 2: https://raw.githubusercontent.com/YOUR_USERNAME/trmnl-max-payne-quotes-plugin/main/assets/poster/maxpayne2.png
-- Max Payne 3: https://raw.githubusercontent.com/YOUR_USERNAME/trmnl-max-payne-quotes-plugin/main/assets/poster/maxpayne3.png
+- Max Payne 1: https://raw.githubusercontent.com/YOUR_USERNAME/trmnl-max-payne-quotes-plugin/main/assets/poster/max-payne-1.jpg
+- Max Payne 2: https://raw.githubusercontent.com/YOUR_USERNAME/trmnl-max-payne-quotes-plugin/main/assets/poster/max-payne-2.jpg
+- Max Payne 3: https://raw.githubusercontent.com/YOUR_USERNAME/trmnl-max-payne-quotes-plugin/main/assets/poster/max-payne-3.jpg
 ```
 
 ## Tips

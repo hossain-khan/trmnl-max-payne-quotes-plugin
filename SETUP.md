@@ -59,9 +59,9 @@ python3 generate_random_quote.py --list
 ### 4. Add Images (Optional but Recommended)
 
 - [ ] Add game poster images to `assets/poster/`
-  - `maxpayne1.png`
-  - `maxpayne2.png`
-  - `maxpayne3.png`
+  - `max-payne-1.jpg`
+  - `max-payne-2.jpg`
+  - `max-payne-3.jpg`
 - [ ] Add plugin icon to `assets/icon.png`
 
 See [assets/README.md](assets/README.md) for image guidelines.

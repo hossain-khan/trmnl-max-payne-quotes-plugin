@@ -17,7 +17,7 @@ The most valuable contribution is adding more authentic quotes from the games!
   "text": "The exact quote text",
   "character": "Character name (Max Payne, Mona Sax, etc.)",
   "game": "Max Payne | Max Payne 2 | Max Payne 3",
-  "image": "https://raw.githubusercontent.com/YOUR_USERNAME/trmnl-max-payne-quotes-plugin/main/assets/poster/maxpayne1.png"
+  "image": "https://raw.githubusercontent.com/YOUR_USERNAME/trmnl-max-payne-quotes-plugin/main/assets/poster/max-payne-1.jpg"
 }
 ```
 
@@ -42,7 +42,7 @@ To contribute game poster images:
 
 1. **Create/find** high-quality images (400x400px or larger, square)
 2. **Optimize** for e-ink displays (high contrast, dithered)
-3. **Name appropriately**: `maxpayne1.png`, `maxpayne2.png`, `maxpayne3.png`
+3. **Name appropriately**: `max-payne-1.jpg`, `max-payne-2.jpg`, `max-payne-3.jpg`
 4. **Place in** `assets/poster/`
 5. **Keep file size** reasonable (< 500KB each)
 6. **Test rendering** on TRMNL preview
