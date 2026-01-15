@@ -19,7 +19,7 @@ A TRMNL plugin that displays dark, noir quotes from the Max Payne trilogy on you
 ### Step 1: Fork/Clone this Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/trmnl-max-payne-quotes-plugin.git
+git clone https://github.com/hossain-khan/trmnl-max-payne-quotes-plugin.git
 cd trmnl-max-payne-quotes-plugin
 ```
 
@@ -45,7 +45,7 @@ Also update `YOUR_EMAIL@example.com` in [settings.yml](settings.yml)
 3. Click **Save**
 4. Wait a few minutes for deployment
 
-Your quotes will be available at: `https://YOUR_USERNAME.github.io/trmnl-max-payne-quotes-plugin/`
+Your quotes will be available at: `https://hossain-khan.github.io/trmnl-max-payne-quotes-plugin/`
 
 ### Step 4: Create TRMNL Private Plugin
 
@@ -55,7 +55,7 @@ Your quotes will be available at: `https://YOUR_USERNAME.github.io/trmnl-max-pay
 4. Configure:
    - **Name**: Max Payne Quotes
    - **Strategy**: Polling
-   - **Polling URL**: `https://YOUR_USERNAME.github.io/trmnl-max-payne-quotes-plugin/api/random-quote.json`
+   - **Polling URL**: `https://hossain-khan.github.io/trmnl-max-payne-quotes-plugin/api/random-quote.json`
    - **Refresh Interval**: 1440 minutes (daily)
 5. Click **Save**
 
@@ -155,8 +155,8 @@ trmnl-max-payne-quotes-plugin/
 
 Once deployed to GitHub Pages:
 
-- **All Quotes**: `https://YOUR_USERNAME.github.io/trmnl-max-payne-quotes-plugin/quotes.json`
-- **Random Quote**: `https://YOUR_USERNAME.github.io/trmnl-max-payne-quotes-plugin/api/random-quote.json`
+- **All Quotes**: `https://hossain-khan.github.io/trmnl-max-payne-quotes-plugin/quotes.json`
+- **Random Quote**: `https://hossain-khan.github.io/trmnl-max-payne-quotes-plugin/api/random-quote.json`
 
 ## 📚 Documentation
 
