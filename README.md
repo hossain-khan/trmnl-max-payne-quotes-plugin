@@ -80,4 +80,5 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-*"The past is a gaping hole. You try to run from it, but the more you run, the deeper it grows behind you."* — Max Payne
+*"The past is a gaping hole. You try to run from it, but the more you run, the deeper it grows behind you."*  
+— Max Payne
