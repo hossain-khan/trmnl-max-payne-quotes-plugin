@@ -98,6 +98,43 @@ git push origin main
    - **Refresh Interval**: 1440 (daily)
 5. [ ] Click **Save**
 
+### 7a. Add Plugin Information (Optional - For Recipe Publishing)
+
+If you plan to publish this as a TRMNL Recipe, add the `author_bio` field:
+
+```yaml
+- keyname: author_bio
+  name: About This Plugin
+  field_type: author_bio
+  category: entertainment,gaming
+  description: |
+    Max Payne Quotes brings the iconic noir dialogue from the legendary Max Payne trilogy directly to your TRMNL device.
+    <br><br>
+    <strong>Features:</strong><br>
+    🎮 36 authentic quotes from Max Payne, Max Payne 2, and Max Payne 3<br>
+    🗨️ Noir-style typography with Courier New monospace font<br>
+    📱 Optimized layouts for all TRMNL view sizes<br>
+    🎨 Game-specific poster artwork for visual atmosphere<br>
+    🎲 Random quote selection with daily automatic updates
+    <br><br>
+    <strong>Setup:</strong><br>
+    1. Install or Fork this recipe<br>
+    2. The plugin automatically polls for a new quote every 24 hours<br>
+    3. Add to your playlist and enjoy noir wisdom on your e-ink display
+    <br><br>
+    All quotes are verified authentic from Wikiquote and capture the philosophical, dark, and action-packed moments that made Max Payne an iconic character in gaming.
+    <br><br>
+    <strong>Quote Database:</strong> 36 quotes (13 Max Payne, 11 Max Payne 2, 11 Max Payne 3, 1 Mona Sax)
+  github_url: https://github.com/hossain-khan/trmnl-max-payne-quotes-plugin
+  learn_more_url: https://hossain-khan.github.io/trmnl-max-payne-quotes-plugin/
+  email_address: trmnl@hossain.dev
+```
+
+**Important Notes:**
+- The `author_bio` field is **required** when publishing as a Recipe
+- Categories (`entertainment,gaming`) help users discover your plugin
+- Special properties render as clickable icons on the recipe page
+
 ### 8. Add Markup Templates
 
 1. [ ] Click **Edit Markup** button
