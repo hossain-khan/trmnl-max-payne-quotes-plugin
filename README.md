@@ -7,8 +7,13 @@ Dark, noir quotes from the Max Payne trilogy on your TRMNL e-ink display.
 
 ## Install
 
-[![Show it on TRMNL](assets/icon/trmnl-badge-show-it-on-dark.svg#gh-dark-mode-only)](https://usetrmnl.com/recipes/224761)
-[![Show it on TRMNL](assets/icon/trmnl-badge-show-it-on-light.svg#gh-light-mode-only)](https://usetrmnl.com/recipes/224761)
+<a href="https://usetrmnl.com/recipes/224761">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/icon/trmnl-badge-show-it-on-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/icon/trmnl-badge-show-it-on-light.svg">
+    <img alt="Show it on TRMNL" src="assets/icon/trmnl-badge-show-it-on-dark.svg" height="40">
+  </picture>
+</a>
 
 **[→ Install Max Payne Quotes Recipe](https://usetrmnl.com/recipes/224761)**
 
