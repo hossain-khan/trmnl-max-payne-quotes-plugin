@@ -43,3 +43,8 @@ Dark, noir quotes from the Max Payne trilogy on your TRMNL e-ink display.
 **For Developers:** Want to fork or customize this plugin? See [docs/SETUP.md](docs/SETUP.md)
 
 **License:** See [LICENSE](LICENSE)
+
+
+---- 
+
+![Poster](assets/poster/trmnl-max-payne-banner-borderless-small.png)
