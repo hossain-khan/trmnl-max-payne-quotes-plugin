@@ -33,3 +33,5 @@ jobs:
           commit_user_name: 'GitHub Action'
           commit_user_email: 'action@github.com'
           commit_author: 'GitHub Action <action@github.com>'
+        env:
+          GITHUB_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
