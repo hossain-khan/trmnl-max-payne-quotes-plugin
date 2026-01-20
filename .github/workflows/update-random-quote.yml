@@ -34,6 +34,7 @@ jobs:
           commit_user_email: 'action@github.com'
           commit_author: 'GitHub Action <action@github.com>'
         env:
-          # Use PAT instead of default GITHUB_TOKEN to trigger the GitHub Pages deployment workflow.
+          # Use PAT instead of default GITHUB_TOKEN to trigger the GitHub Pages deployment workflow (static.yml).
+          # This is needed to update the random MAX PAYNE quote of the day on the live website.
           # The default GITHUB_TOKEN doesn't trigger other workflows for security reasons.
           GITHUB_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
