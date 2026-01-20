@@ -33,6 +33,40 @@
             color: #888;
             font-size: 0.9em;
         }
+        .todays-quote {
+            background: linear-gradient(135deg, rgba(255,68,68,0.2) 0%, rgba(255,68,68,0.05) 100%);
+            padding: 30px;
+            margin: 30px 0;
+            border: 3px solid #ff4444;
+            border-radius: 8px;
+            box-shadow: 0 8px 16px rgba(255,68,68,0.3);
+        }
+        .todays-quote h2 {
+            color: #ff4444;
+            margin-top: 0;
+            font-size: 1.5em;
+            text-align: center;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+        .todays-quote .quote-text {
+            font-size: 1.4em;
+            font-weight: bold;
+            color: #fff;
+            text-align: center;
+            line-height: 1.6;
+            margin: 20px 0;
+        }
+        .todays-quote .quote-meta {
+            text-align: center;
+            color: #aaa;
+            font-size: 1.1em;
+        }
+        .todays-quote .loading {
+            text-align: center;
+            color: #888;
+            font-style: italic;
+        }
         .api-info {
             background: rgba(255,68,68,0.1);
             padding: 20px;
@@ -95,6 +129,13 @@
         <p><strong>Note:</strong> If you want to customize the markup, quotes, or styling, see the <a href="SETUP.md">Setup Guide</a> for developers.</p>
     </div>
 
+    <div class="todays-quote">
+        <h2>🎯 Today's Quote</h2>
+        <div id="todays-quote-container">
+            <p class="loading">Loading today's quote...</p>
+        </div>
+    </div>
+
     <h2>📜 Sample Quotes</h2>
     <div id="quotes-container">
         <p>Loading quotes...</p>
@@ -116,6 +157,21 @@
         // Update API endpoint displays
         document.getElementById('all-quotes-url').textContent = baseUrl + 'quotes.json';
         document.getElementById('random-quote-url').textContent = baseUrl + 'api/random-quote.json';
+        
+        // Load and display today's random quote
+        fetch(baseUrl + '/api/random-quote.json')
+            .then(response => response.json())
+            .then(data => {
+                const container = document.getElementById('todays-quote-container');
+                container.innerHTML = `
+                    <div class="quote-text">"${data.text}"</div>
+                    <div class="quote-meta">— ${data.character}, ${data.game}</div>
+                `;
+            })
+            .catch(error => {
+                console.error('Error loading today\'s quote:', error);
+                document.getElementById('todays-quote-container').innerHTML = '<p class="loading">Error loading today\'s quote.</p>';
+            });
         
         // Load and display quotes
         fetch(baseUrl + '/quotes.json')
