@@ -5,7 +5,7 @@ This file contains base64-encoded poster images for all three Max Payne games th
 ## File Information
 
 - **File**: `templates/shared.liquid`
-- **Size**: ~94KB (all three posters combined, optimized)
+- **Size**: ~63KB (all three posters combined, optimized)
 - **Format**: Base64-encoded JPEG images
 - **Purpose**: Inline poster images without requiring external URLs
 
@@ -87,7 +87,7 @@ Instead of using the `image` property from JSON, use the shared poster variables
 
 ## Disadvantages
 
-⚠️ **Larger file size** - The templates/shared.liquid file is ~94KB (optimized)
+⚠️ **Larger file size** - The templates/shared.liquid file is ~63KB (optimized)
 ⚠️ **Not cacheable** - Base64 images can't be cached separately
 ⚠️ **Harder to update** - Need to re-run embed script for changes
 
@@ -142,7 +142,7 @@ The script will:
 ls -lh templates/shared.liquid
 ```
 
-You should see a smaller file size (e.g., ~94KB after optimization from ~200KB original).
+You should see a smaller file size (e.g., ~63KB after optimization from ~200KB original).
 
 ### Step 5: Update TRMNL Plugin
 
