@@ -14,7 +14,7 @@ A single random quote selected from [`quotes.json`](../quotes.json) in the root 
   "text": "Quote text here",
   "character": "Max Payne",
   "game": "Max Payne",
-  "updated_on": "2026-01-20T02:45:21.153936Z"
+  "updated_on": "2026-01-21T02:45:21.153936Z"
 }
 ```
 
