@@ -52,6 +52,7 @@ jobs:
           file_pattern: 'api/random-quote.json'
           commit_user_name: 'GitHub Action'
           commit_user_email: 'action@github.com'
+          commit_author: 'GitHub Action <action@github.com>'
         env:
           # Use PAT instead of default GITHUB_TOKEN to trigger the GitHub Pages deployment workflow (static.yml).
           # The default GITHUB_TOKEN is prevented from triggering other workflows as a security measure to prevent infinite loops.
