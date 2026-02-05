@@ -49,7 +49,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'automated: update random quote 💥'
-          file_pattern: 'api/random-quote.json'
+          file_pattern: 'api/random-quote.json .quote-history.json'
           commit_user_name: 'GitHub Action'
           commit_user_email: 'action@github.com'
           commit_author: 'GitHub Action <action@github.com>'
