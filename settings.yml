@@ -8,12 +8,30 @@ polling_url: https://YOUR_GITHUB_USERNAME.github.io/trmnl-max-payne-quotes-plugi
 polling_headers: ''
 polling_body: ''
 custom_fields:
-- keyname: max_payne_quotes
+- keyname: author_bio
+  name: About This Plugin
   field_type: author_bio
-  name: Max Payne Quotes
-  description: Dark, noir quotes from the Max Payne trilogy. Experience the pain and philosophy of New York's most troubled detective. "The past is a gaping hole..."
-  category: entertainment
-  github_url: https://github.com/YOUR_GITHUB_USERNAME/trmnl-max-payne-quotes-plugin
-  email_address: YOUR_EMAIL@example.com
+  category: entertainment,games
+  description: |
+    Max Payne Quotes brings the iconic noir dialogue from the legendary Max Payne trilogy directly to your TRMNL device.
+    <br><br>
+    <strong>Features:</strong><br>
+    🎮 39 authentic quotes from Max Payne, Max Payne 2, and Max Payne 3<br>
+    🗨️ Noir-style typography with Courier New monospace font<br>
+    📱 Optimized layouts for all TRMNL view sizes<br>
+    🎨 Game-specific poster artwork for visual atmosphere<br>
+    🎲 Random quote selection with daily automatic updates
+    <br><br>
+    <strong>Setup:</strong><br>
+    1. Install or Fork this recipe<br>
+    2. The plugin automatically polls for a new quote every 24 hours<br>
+    3. Add to your playlist and enjoy noir wisdom on your e-ink display
+    <br><br>
+    All quotes are verified authentic from Wikiquote and capture the philosophical, dark, and action-packed moments that made Max Payne an iconic character in gaming.
+    <br><br>
+    <strong>Quote Database:</strong> 39 quotes verified from Wikiquote (35 Max Payne across trilogy, 4 Mona Sax)
+  github_url: https://github.com/hossain-khan/trmnl-max-payne-quotes-plugin
+  learn_more_url: https://hossain-khan.github.io/trmnl-max-payne-quotes-plugin/
+  email_address: trmnl@hossain.dev
 name: Max Payne Quotes
 refresh_interval: 1440
