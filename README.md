@@ -1,4 +1,4 @@
-![Installs](https://trmnl-badges.gohk.xyz/badge/installs?recipe=224761)
+[![Connections](https://trmnl-badges.gohk.xyz/badge/connections?recipe=224761)](https://trmnl.com/recipes/224761)
 
 # Max Payne Quotes
 <img src="assets/icon/max-payne-icon-rounded.png" align="right" alt="Max Payne Icon" width="120"/>
