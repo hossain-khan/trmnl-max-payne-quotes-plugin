@@ -1,0 +1,85 @@
+name: Validate Quotes JSON
+
+on:
+  push:
+    paths:
+      - 'quotes.json'
+      - '.github/workflows/validate-quotes-json.yml'
+  pull_request:
+    paths:
+      - 'quotes.json'
+      - '.github/workflows/validate-quotes-json.yml'
+
+jobs:
+  validate-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: '18'
+
+      - name: Install jsonschema
+        run: npm install jsonschema
+
+      - name: Validate quotes.json with JSON Schema
+        run: |
+          node << 'EOF'
+          const fs = require('fs');
+          const { Validator } = require('jsonschema');
+          
+          // Define the schema for quotes.json
+          const schema = {
+            type: 'object',
+            properties: {
+              quotes: {
+                type: 'array',
+                items: {
+                  type: 'object',
+                  properties: {
+                    text: {
+                      type: 'string'
+                    },
+                    character: {
+                      type: 'string'
+                    },
+                    game: {
+                      type: 'string'
+                    }
+                  },
+                  required: ['text', 'character', 'game']
+                }
+              }
+            },
+            required: ['quotes']
+          };
+          
+          try {
+            const data = JSON.parse(fs.readFileSync('quotes.json', 'utf8'));
+            
+            const validator = new Validator();
+            const result = validator.validate(data, schema);
+            
+            if (!result.valid) {
+              console.error('✗ quotes.json validation failed:');
+              result.errors.forEach(err => {
+                console.error(`  - ${err.property}: ${err.message}`);
+              });
+              process.exit(1);
+            }
+            
+            console.log(`✓ quotes.json is valid!`);
+            console.log(`✓ Successfully validated ${data.quotes.length} quotes`);
+            console.log(`✓ All quotes contain required fields: text, character, game`);
+          } catch (err) {
+            if (err instanceof SyntaxError) {
+              console.error(`✗ JSON parsing error: ${err.message}`);
+            } else {
+              console.error(`✗ Error: ${err.message}`);
+            }
+            process.exit(1);
+          }
+          EOF
