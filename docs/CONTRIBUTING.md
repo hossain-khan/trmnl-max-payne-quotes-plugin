@@ -12,7 +12,7 @@ Want to customize or self-host this plugin? See [SETUP.md](SETUP.md) for detaile
 
 Once you have your development environment set up, come back here for contribution guidelines.
 
-## � How It Works
+## ⚙️ How It Works
 
 The plugin displays quotes in the following format:
 
@@ -83,10 +83,11 @@ The most valuable contribution is adding more authentic quotes from the games!
 {
   "text": "The exact quote text",
   "character": "Character name (Max Payne, Mona Sax, etc.)",
-  "game": "Max Payne | Max Payne 2 | Max Payne 3",
-  "image": "https://raw.githubusercontent.com/YOUR_USERNAME/trmnl-max-payne-quotes-plugin/main/assets/poster/max-payne-1.jpg"
+  "game": "Max Payne | Max Payne 2 | Max Payne 3"
 }
 ```
+
+> **Note:** No `image` field is needed — game poster artwork is embedded directly in `templates/shared.liquid`.
 
 4. **Verify accuracy** - Ensure quotes are accurate to the games
 5. **Test** - Run `python3 generate_random_quote.py` to verify JSON validity

@@ -2,11 +2,11 @@
 
 **Date:** 2026-01-21  
 **Validated by:** Automated research and verification process  
-**Total Quotes:** 39 (35 Max Payne, 4 Mona Sax)
+**Total Quotes:** 50 (45 Max Payne, 5 Mona Sax)
 
 ## Executive Summary
 
-A comprehensive validation of all 39 quotes in `quotes.json` was conducted by cross-referencing with multiple authoritative sources including Wikiquote (official Max Payne, Max Payne 2, and Max Payne 3 pages), game scripts, IMDb, Steam Community discussions, and dedicated Max Payne fan sites. 
+A comprehensive validation of all 50 quotes in `quotes.json` was conducted by cross-referencing with multiple authoritative sources including Wikiquote (official Max Payne, Max Payne 2, and Max Payne 3 pages), game scripts, IMDb, Steam Community discussions, and dedicated Max Payne fan sites. 
 
 **Results:**
 - ✅ **37 quotes verified as accurate** (text and attribution confirmed via Wikiquote or multiple reliable sources)
@@ -125,7 +125,7 @@ Quotes were validated using the following authoritative sources:
 
 ## Conclusion
 
-After thorough research and validation, **37 out of 39 quotes** in `quotes.json` have been verified for accuracy against authoritative sources. Five incorrect game attributions were identified and corrected. One quote ("Vladimir Lem. Dearest of all my friends. If I had known, I wouldn't have hurt you.") could not be verified and is flagged for potential removal or replacement.
+After thorough research and validation, the original 37 out of 39 quotes in `quotes.json` were verified for accuracy against authoritative sources. Five incorrect game attributions were identified and corrected. One quote ("Vladimir Lem. Dearest of all my friends. If I had known, I wouldn't have hurt you.") could not be verified and is flagged for potential removal or replacement. An additional 11 quotes have since been added to bring the total to 50.
 
 The vast majority of quotes accurately represent the dark, noir-inspired dialogue and internal monologues that define the Max Payne series, making this collection suitable for use in the TRMNL plugin.
 
@@ -136,6 +136,6 @@ The vast majority of quotes accurately represent the dark, noir-inspired dialogu
 
 ---
 
-**Last Updated:** 2026-01-21  
-**Validation Status:** 37/39 quotes verified (95% accuracy)  
+**Last Updated:** 2026-02-21  
+**Validation Status:** 37/39 original quotes verified (95% accuracy); 11 additional quotes added  
 **Next Review:** As needed when adding new quotes

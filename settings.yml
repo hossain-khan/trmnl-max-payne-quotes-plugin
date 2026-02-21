@@ -4,7 +4,7 @@ no_screen_padding: 'no'
 dark_mode: 'no'
 static_data: ''
 polling_verb: get
-polling_url: https://YOUR_GITHUB_USERNAME.github.io/trmnl-max-payne-quotes-plugin/quotes.json
+polling_url: https://YOUR_GITHUB_USERNAME.github.io/trmnl-max-payne-quotes-plugin/api/random-quote.json
 polling_headers: ''
 polling_body: ''
 custom_fields:
@@ -16,7 +16,7 @@ custom_fields:
     Max Payne Quotes brings the iconic noir dialogue from the legendary Max Payne trilogy directly to your TRMNL device.
     <br><br>
     <strong>Features:</strong><br>
-    🎮 39 authentic quotes from Max Payne, Max Payne 2, and Max Payne 3<br>
+    🎮 50 authentic quotes from Max Payne, Max Payne 2, and Max Payne 3<br>
     🗨️ Noir-style typography with Courier New monospace font<br>
     📱 Optimized layouts for all TRMNL view sizes<br>
     🎨 Game-specific poster artwork for visual atmosphere<br>
@@ -29,7 +29,7 @@ custom_fields:
     <br><br>
     All quotes are verified authentic from Wikiquote and capture the philosophical, dark, and action-packed moments that made Max Payne an iconic character in gaming.
     <br><br>
-    <strong>Quote Database:</strong> 39 quotes verified from Wikiquote (35 Max Payne across trilogy, 4 Mona Sax)
+    <strong>Quote Database:</strong> 50 quotes verified from Wikiquote (45 Max Payne across trilogy, 5 Mona Sax)
   github_url: https://github.com/hossain-khan/trmnl-max-payne-quotes-plugin
   learn_more_url: https://hossain-khan.github.io/trmnl-max-payne-quotes-plugin/
   email_address: trmnl@hossain.dev
