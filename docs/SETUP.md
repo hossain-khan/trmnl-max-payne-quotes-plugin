@@ -26,12 +26,6 @@ cd trmnl-max-payne-quotes-plugin
 Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username in:
 
 - [ ] `settings.yml` (line 7)
-- [ ] `templates/full.liquid` (line 17)
-- [ ] `templates/half_horizontal.liquid` (line 16)
-- [ ] `templates/half_vertical.liquid` (line 20)
-- [ ] `templates/quadrant.liquid` (line 13)
-- [ ] `quotes.json` (all image URLs)
-- [ ] `api/random-quote.json` (image URL)
 - [ ] `index.html` (line 79)
 
 Also update:
@@ -40,10 +34,12 @@ Also update:
 **Quick Find & Replace:**
 ```bash
 # macOS/Linux
-find . -type f \( -name "*.yml" -o -name "*.liquid" -o -name "*.json" -o -name "*.html" \) -exec sed -i '' 's/YOUR_GITHUB_USERNAME/your-actual-username/g' {} +
+find . -type f \( -name "*.yml" -o -name "*.html" \) -exec sed -i '' 's/YOUR_GITHUB_USERNAME/your-actual-username/g' {} +
 
 # Or manually with your editor's find & replace feature
 ```
+
+> **Note:** Template files (`templates/*.liquid`) and data files (`quotes.json`, `api/random-quote.json`) no longer require username updates — poster images are embedded directly in `templates/shared.liquid`.
 
 ### 3. Generate Random Quote
 
@@ -113,7 +109,7 @@ If you plan to publish this as a TRMNL Recipe, add the `author_bio` field:
     Max Payne Quotes brings the iconic noir dialogue from the legendary Max Payne trilogy directly to your TRMNL device.
     <br><br>
     <strong>Features:</strong><br>
-    🎮 39 authentic quotes from Max Payne, Max Payne 2, and Max Payne 3<br>
+    🎮 50 authentic quotes from Max Payne, Max Payne 2, and Max Payne 3<br>
     🗨️ Noir-style typography with Courier New monospace font<br>
     📱 Optimized layouts for all TRMNL view sizes<br>
     🎨 Game-specific poster artwork for visual atmosphere<br>
@@ -126,7 +122,7 @@ If you plan to publish this as a TRMNL Recipe, add the `author_bio` field:
     <br><br>
     All quotes are verified authentic from Wikiquote and capture the philosophical, dark, and action-packed moments that made Max Payne an iconic character in gaming.
     <br><br>
-    <strong>Quote Database:</strong> 39 quotes verified from Wikiquote (35 Max Payne across trilogy, 4 Mona Sax)
+    <strong>Quote Database:</strong> 50 quotes verified from Wikiquote (45 Max Payne across trilogy, 5 Mona Sax)
   github_url: https://github.com/hossain-khan/trmnl-max-payne-quotes-plugin
   learn_more_url: https://hossain-khan.github.io/trmnl-max-payne-quotes-plugin/
   email_address: trmnl@hossain.dev
@@ -172,7 +168,7 @@ Your TRMNL should now display Max Payne quotes. The plugin will:
 - Fetch a new quote every 24 hours (or your configured interval)
 - Automatically update with GitHub Actions daily at 2am UTC
 - Display quotes in noir-style Courier New typography
-- Rotate through all 39 quotes randomly
+- Rotate through all 50 quotes randomly
 - Show character attribution (Max Payne or Mona Sax)
 
 ## 🐛 Troubleshooting

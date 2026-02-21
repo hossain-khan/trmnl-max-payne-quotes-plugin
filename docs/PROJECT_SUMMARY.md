@@ -101,7 +101,7 @@ Wait 2-5 minutes, then visit:
 ### 🎯 What It Does
 
 - ✅ Displays random Max Payne quotes on TRMNL e-ink display
-- ✅ 39 authentic quotes from all 3 games
+- ✅ 50 authentic quotes from all 3 games
 - ✅ 4 different layout sizes (full, half-h, half-v, quadrant)
 - ✅ Noir-style typography with Courier New monospace
 - ✅ Auto-refreshes daily (configurable)
@@ -123,8 +123,7 @@ Each quote contains:
 {
   "text": "Quote text",
   "character": "Character name",
-  "game": "Game title",
-  "image": "Poster URL"
+  "game": "Game title"
 }
 ```
 
@@ -139,8 +138,7 @@ Edit [quotes.json](quotes.json):
     {
       "text": "Your new quote",
       "character": "Max Payne",
-      "game": "Max Payne",
-      "image": "https://..."
+      "game": "Max Payne"
     }
   ]
 }
@@ -209,10 +207,10 @@ Prompts for GitHub username and email, updates all files automatically.
 
 ## 📊 Sample Quotes Included
 
-✅ 39 authentic quotes from:
-- **Max Payne** (2001) - 12 quotes
-- **Max Payne 2: The Fall of Max Payne** (2003) - 16 quotes
-- **Max Payne 3** (2012) - 11 quotes
+✅ 50 authentic quotes from:
+- **Max Payne** (2001) - 14 quotes
+- **Max Payne 2: The Fall of Max Payne** (2003) - 24 quotes
+- **Max Payne 3** (2012) - 12 quotes
 
 Including classics like:
 - "They were all dead..."

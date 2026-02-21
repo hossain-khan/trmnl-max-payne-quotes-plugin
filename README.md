@@ -35,7 +35,7 @@ Dark, noir quotes from the Max Payne trilogy on your TRMNL e-ink display.
 
 ## Features
 
-- 39 authentic quotes from the trilogy
+- 50 authentic quotes from the trilogy
 - Multiple layout options
 - Daily automatic updates
 - E-ink optimized
