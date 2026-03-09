@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "When you're walking in heaven, the bad things are easier to believe.",
-      "character": "Mona Sax",
-      "game": "Max Payne 2",
-      "selected_on": "2026-02-07T02:58:43.487670Z"
-    },
-    {
       "text": "God, I turned out to be such a damsel in distress.",
       "character": "Mona Sax",
       "game": "Max Payne 2",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 3",
       "selected_on": "2026-03-08T03:03:50.923351Z"
+    },
+    {
+      "text": "This is love. When someone drags you from the wreckage when you have given in, ready to just lie there and die. This is love. When someone, no matter what the cost, shows you there is hope, a choice, that you can put down your gun. This is love. Love hurts.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-03-09T03:05:25.353566Z"
     }
   ]
 }
