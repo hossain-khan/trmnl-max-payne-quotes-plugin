@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Death is inevitable. Our fear of it makes us play safe, blocks out emotion. It's a losing game. Without passion you are already dead.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-02-09T03:07:04.944054Z"
-    },
-    {
       "text": "The past is a gaping hole. You try to run from it, but the more you run, the deeper, more terrible it grows behind you, its edges yawning at your heels.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -185,6 +179,12 @@
       "character": "Mona Sax",
       "game": "Max Payne 2",
       "selected_on": "2026-03-11T02:59:37.439109Z"
+    },
+    {
+      "text": "Death is inevitable. Our fear of it makes us play safe, blocks out emotion. It's a losing game. Without passion you are already dead.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-03-12T03:03:14.434732Z"
     }
   ]
 }
