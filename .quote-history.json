@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "The storm seemed to lose its frenzy. The ragged clouds gave way to the stars above.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-02-11T03:07:39.361192Z"
-    },
-    {
       "text": "The sun went down with practiced bravado. Twilight crawled across the sky, laden with foreboding.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -185,6 +179,12 @@
       "character": "Mona Sax",
       "game": "Max Payne 2",
       "selected_on": "2026-03-13T03:01:24.014820Z"
+    },
+    {
+      "text": "I lied to myself that it was over. I was still alive, my loved ones were still dead. It wasn't over.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-03-14T03:00:10.245867Z"
     }
   ]
 }
