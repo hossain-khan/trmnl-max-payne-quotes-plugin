@@ -1,18 +1,6 @@
 {
   "quotes": [
     {
-      "text": "The sun went down with practiced bravado. Twilight crawled across the sky, laden with foreboding.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-02-12T03:06:42.807096Z"
-    },
-    {
-      "text": "Firing a gun is a binary choice. Either you pull the trigger or you don't.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-02-13T03:07:33.563730Z"
-    },
-    {
       "text": "I felt like the avenging angel. I looked like a fat bald dude with a bad temper.",
       "character": "Max Payne",
       "game": "Max Payne 3",
@@ -185,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-03-14T03:00:10.245867Z"
+    },
+    {
+      "text": "The trouble with wanting something is the fear of losing it, or never getting it. The thought makes you weak.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-03-15T03:07:53.824039Z"
     }
   ]
 }
