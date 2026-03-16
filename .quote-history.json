@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "I felt like the avenging angel. I looked like a fat bald dude with a bad temper.",
-      "character": "Max Payne",
-      "game": "Max Payne 3",
-      "selected_on": "2026-02-14T03:01:16.020398Z"
-    },
-    {
       "text": "What are you so afraid of? What do you want from me?",
       "character": "Mona Sax",
       "game": "Max Payne 2",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-03-15T03:07:53.824039Z"
+    },
+    {
+      "text": "The storm seemed to lose its frenzy. The ragged clouds gave way to the stars above.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-03-16T03:09:21.885131Z"
     }
   ]
 }
