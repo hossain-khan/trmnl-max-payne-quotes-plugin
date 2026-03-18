@@ -1,18 +1,6 @@
 {
   "quotes": [
     {
-      "text": "What are you so afraid of? What do you want from me?",
-      "character": "Mona Sax",
-      "game": "Max Payne 2",
-      "selected_on": "2026-02-15T03:06:57.699157Z"
-    },
-    {
-      "text": "Vladimir Lem. Dearest of all my friends. If I had known, I wouldn't have hurt you.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-02-16T03:06:57.202214Z"
-    },
-    {
       "text": "Nothing to do but wait. Watching the dead-end street of my life. My brain felt like a migraine waiting to happen.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -185,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne",
       "selected_on": "2026-03-17T03:03:36.950130Z"
+    },
+    {
+      "text": "None of us was a saint.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-03-18T03:07:18.668846Z"
     }
   ]
 }
