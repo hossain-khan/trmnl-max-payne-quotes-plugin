@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Nothing to do but wait. Watching the dead-end street of my life. My brain felt like a migraine waiting to happen.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-02-17T03:04:29.375014Z"
-    },
-    {
       "text": "Einstein was right, time is relative to the observer. When you're looking down the barrel of a gun, time slows down. Your whole life flashes by, heartbreak and scars. Stay with it, and you can live a lifetime in that split second.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne",
       "selected_on": "2026-03-18T03:07:18.668846Z"
+    },
+    {
+      "text": "When had I ever needed to invite trouble in? It always found me, no matter where I hid.",
+      "character": "Max Payne",
+      "game": "Max Payne 3",
+      "selected_on": "2026-03-19T03:07:48.738851Z"
     }
   ]
 }
