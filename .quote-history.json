@@ -1,18 +1,6 @@
 {
   "quotes": [
     {
-      "text": "A funhouse is a linear sequence of scares. Take it or leave it is the only choice given. Makes you think about free will: have our choices been made for us because of who we are?",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-02-19T03:04:58.216988Z"
-    },
-    {
-      "text": "Another dark, rainy night. Another police station. Another futile crusade for amends. Time moves forward, and nothing changes.",
-      "character": "Max Payne",
-      "game": "Max Payne 3",
-      "selected_on": "2026-02-20T03:02:48.657472Z"
-    },
-    {
       "text": "Your past has a way of sneaking up on you. You'll hear broken echoes of it everywhere, like a bad replay. You'll get mad at everyone for reminding you about it, even if it's all in your head.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -185,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-03-21T02:58:00.240855Z"
+    },
+    {
+      "text": "I felt like the avenging angel. I looked like a fat bald dude with a bad temper.",
+      "character": "Max Payne",
+      "game": "Max Payne 3",
+      "selected_on": "2026-03-22T03:07:16.831586Z"
     }
   ]
 }
