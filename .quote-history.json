@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Your past has a way of sneaking up on you. You'll hear broken echoes of it everywhere, like a bad replay. You'll get mad at everyone for reminding you about it, even if it's all in your head.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-02-21T02:58:04.632368Z"
-    },
-    {
       "text": "Like all the bad things in my life, it started with the death of a woman. I couldn't save her.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 3",
       "selected_on": "2026-03-22T03:07:16.831586Z"
+    },
+    {
+      "text": "Einstein was right, time is relative to the observer. When you're looking down the barrel of a gun, time slows down. Your whole life flashes by, heartbreak and scars. Stay with it, and you can live a lifetime in that split second.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-03-23T03:08:10.228114Z"
     }
   ]
 }
