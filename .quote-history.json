@@ -1,18 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Like all the bad things in my life, it started with the death of a woman. I couldn't save her.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-02-22T03:05:35.322419Z"
-    },
-    {
-      "text": "The genius of the hole: no matter how long you spend climbing out, you can still fall back down in an instant.",
-      "character": "Max Payne",
-      "game": "Max Payne 3",
-      "selected_on": "2026-02-23T03:06:38.427810Z"
-    },
-    {
       "text": "I tried not to think about when it was that my existence became less about the things that make up people's lives and more about the holes that losing those things leave behind.",
       "character": "Max Payne",
       "game": "Max Payne 3",
@@ -185,6 +173,12 @@
       "character": "Mona Sax",
       "game": "Max Payne 2",
       "selected_on": "2026-03-24T03:04:04.657335Z"
+    },
+    {
+      "text": "I was still alive, and still not all that happy about it.",
+      "character": "Max Payne",
+      "game": "Max Payne 3",
+      "selected_on": "2026-03-25T03:06:42.376898Z"
     }
   ]
 }
