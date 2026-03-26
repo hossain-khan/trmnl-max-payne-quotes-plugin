@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "I tried not to think about when it was that my existence became less about the things that make up people's lives and more about the holes that losing those things leave behind.",
-      "character": "Max Payne",
-      "game": "Max Payne 3",
-      "selected_on": "2026-02-24T03:04:32.618743Z"
-    },
-    {
       "text": "There are no choices. Nothing but a straight line. The illusion comes afterwards, when you ask 'Why me?' and 'What if?'",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 3",
       "selected_on": "2026-03-25T03:06:42.376898Z"
+    },
+    {
+      "text": "Another dark, rainy night. Another police station. Another futile crusade for amends. Time moves forward, and nothing changes.",
+      "character": "Max Payne",
+      "game": "Max Payne 3",
+      "selected_on": "2026-03-26T03:08:20.711402Z"
     }
   ]
 }
