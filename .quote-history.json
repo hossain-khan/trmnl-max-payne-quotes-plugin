@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "I didn't deserve to walk away. There are no happy endings.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-02-28T02:52:09.395680Z"
-    },
-    {
       "text": "I had a hole in my second favorite drinking arm, and the only way out of the frozen storage was through the loading bay.",
       "character": "Max Payne",
       "game": "Max Payne 3",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 3",
       "selected_on": "2026-03-29T03:08:17.084703Z"
+    },
+    {
+      "text": "There are no choices. Nothing but a straight line. The illusion comes afterwards, when you ask 'Why me?' and 'What if?'",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-03-30T03:08:53.240249Z"
     }
   ]
 }
