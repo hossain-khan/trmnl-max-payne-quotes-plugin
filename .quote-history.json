@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "I had a hole in my second favorite drinking arm, and the only way out of the frozen storage was through the loading bay.",
-      "character": "Max Payne",
-      "game": "Max Payne 3",
-      "selected_on": "2026-03-01T03:07:16.429197Z"
-    },
-    {
       "text": "I had a bullet. I had a gun. Time to go to work.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-03-30T03:08:53.240249Z"
+    },
+    {
+      "text": "Like all the bad things in my life, it started with the death of a woman. I couldn't save her.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-03-31T03:08:34.317650Z"
     }
   ]
 }
