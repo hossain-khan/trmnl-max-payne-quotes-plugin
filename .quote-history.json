@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "I had a bullet. I had a gun. Time to go to work.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-03-02T03:03:05.543457Z"
-    },
-    {
       "text": "Collecting evidence had gotten old a few hundred bullets back. I was already so far beyond the point of no return I couldn't even remember what it had looked like when I had passed it.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-03-31T03:08:34.317650Z"
+    },
+    {
+      "text": "Life knows two miseries; getting what you don't want and not getting what you want.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-04-01T03:08:35.840209Z"
     }
   ]
 }
