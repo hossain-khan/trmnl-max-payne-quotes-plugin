@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Collecting evidence had gotten old a few hundred bullets back. I was already so far beyond the point of no return I couldn't even remember what it had looked like when I had passed it.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-03-03T03:04:35.819561Z"
-    },
-    {
       "text": "I hadn't slept in a million years.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-04-01T03:08:35.840209Z"
+    },
+    {
+      "text": "There are things in life you cannot choose: how you feel.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-04-02T03:08:03.178633Z"
     }
   ]
 }
