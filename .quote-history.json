@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "I hadn't slept in a million years.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-03-04T02:59:53.033833Z"
-    },
-    {
       "text": "So much for a lazy Sunday afternoon.",
       "character": "Max Payne",
       "game": "Max Payne 3",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-04-02T03:08:03.178633Z"
+    },
+    {
+      "text": "A funhouse is a linear sequence of scares. Take it or leave it is the only choice given. Makes you think about free will: have our choices been made for us because of who we are?",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-04-03T03:08:20.025576Z"
     }
   ]
 }
