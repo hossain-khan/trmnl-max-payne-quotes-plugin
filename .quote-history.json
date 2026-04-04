@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "So much for a lazy Sunday afternoon.",
-      "character": "Max Payne",
-      "game": "Max Payne 3",
-      "selected_on": "2026-03-05T03:01:52.981341Z"
-    },
-    {
       "text": "When the darkness fell, New York City became something else, any old Sinatra song notwithstanding. Bad things happened in the night, on the streets of that other city. Noir York City.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-04-03T03:08:20.025576Z"
+    },
+    {
+      "text": "The past is a gaping hole. You try to run from it, but the more you run, the deeper, more terrible it grows behind you, its edges yawning at your heels.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-04-04T03:05:07.731576Z"
     }
   ]
 }
