@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "If there's no light, it ain't a tunnel. It's a hole.",
-      "character": "Max Payne",
-      "game": "Max Payne 3",
-      "selected_on": "2026-03-08T03:03:50.923351Z"
-    },
-    {
       "text": "This is love. When someone drags you from the wreckage when you have given in, ready to just lie there and die. This is love. When someone, no matter what the cost, shows you there is hope, a choice, that you can put down your gun. This is love. Love hurts.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 3",
       "selected_on": "2026-04-06T03:09:35.317421Z"
+    },
+    {
+      "text": "Vladimir Lem. Dearest of all my friends. If I had known, I wouldn't have hurt you.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-04-07T03:08:14.617687Z"
     }
   ]
 }
