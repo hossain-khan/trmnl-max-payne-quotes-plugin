@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Sometimes, Mona, you gotta go down to get up.",
-      "character": "Mona Sax",
-      "game": "Max Payne 2",
-      "selected_on": "2026-03-13T03:01:24.014820Z"
-    },
-    {
       "text": "I lied to myself that it was over. I was still alive, my loved ones were still dead. It wasn't over.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 3",
       "selected_on": "2026-04-11T03:06:47.901237Z"
+    },
+    {
+      "text": "When the darkness fell, New York City became something else, any old Sinatra song notwithstanding. Bad things happened in the night, on the streets of that other city. Noir York City.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-04-12T03:09:04.893992Z"
     }
   ]
 }
