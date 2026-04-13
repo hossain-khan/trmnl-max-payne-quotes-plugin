@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "I lied to myself that it was over. I was still alive, my loved ones were still dead. It wasn't over.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-03-14T03:00:10.245867Z"
-    },
-    {
       "text": "The trouble with wanting something is the fear of losing it, or never getting it. The thought makes you weak.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne",
       "selected_on": "2026-04-12T03:09:04.893992Z"
+    },
+    {
+      "text": "This is love. When someone drags you from the wreckage when you have given in, ready to just lie there and die. This is love. When someone, no matter what the cost, shows you there is hope, a choice, that you can put down your gun. This is love. Love hurts.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-04-13T03:10:23.518288Z"
     }
   ]
 }
