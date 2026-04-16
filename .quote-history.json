@@ -1,18 +1,6 @@
 {
   "quotes": [
     {
-      "text": "The storm seemed to lose its frenzy. The ragged clouds gave way to the stars above.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-03-16T03:09:21.885131Z"
-    },
-    {
-      "text": "I was in a New York minute. In a New York minute, everything can change.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-03-17T03:03:36.950130Z"
-    },
-    {
       "text": "None of us was a saint.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -185,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-04-15T03:08:52.517410Z"
+    },
+    {
+      "text": "A fugitive undercover cop framed for murder, following a trail of blood. These people were here for the reason I'd stayed alive. One way or another, this was going to end.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-04-16T03:09:12.702359Z"
     }
   ]
 }
