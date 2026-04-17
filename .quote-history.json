@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "None of us was a saint.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-03-18T03:07:18.668846Z"
-    },
-    {
       "text": "When had I ever needed to invite trouble in? It always found me, no matter where I hid.",
       "character": "Max Payne",
       "game": "Max Payne 3",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne",
       "selected_on": "2026-04-16T03:09:12.702359Z"
+    },
+    {
+      "text": "I didn't deserve to walk away. There are no happy endings.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-04-17T03:09:11.156480Z"
     }
   ]
 }
