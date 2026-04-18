@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "When had I ever needed to invite trouble in? It always found me, no matter where I hid.",
-      "character": "Max Payne",
-      "game": "Max Payne 3",
-      "selected_on": "2026-03-19T03:07:48.738851Z"
-    },
-    {
       "text": "When you're walking in heaven, the bad things are easier to believe.",
       "character": "Mona Sax",
       "game": "Max Payne 2",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-04-17T03:09:11.156480Z"
+    },
+    {
+      "text": "I lied to myself that it was over. I was still alive, my loved ones were still dead. It wasn't over.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-04-18T03:07:51.563548Z"
     }
   ]
 }
