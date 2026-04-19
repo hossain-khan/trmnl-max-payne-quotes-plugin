@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "When you're walking in heaven, the bad things are easier to believe.",
-      "character": "Mona Sax",
-      "game": "Max Payne 2",
-      "selected_on": "2026-03-20T03:02:18.158694Z"
-    },
-    {
       "text": "All this time we got the fable of Sleeping Beauty wrong. The prince didn't kiss her to wake her up. No one who slept for a hundred years is likely to wake up. It was the other way round. He kisses her to wake himself up from the nightmare that has brought him there.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-04-18T03:07:51.563548Z"
+    },
+    {
+      "text": "When had I ever needed to invite trouble in? It always found me, no matter where I hid.",
+      "character": "Max Payne",
+      "game": "Max Payne 3",
+      "selected_on": "2026-04-19T03:09:01.832859Z"
     }
   ]
 }
