@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "All this time we got the fable of Sleeping Beauty wrong. The prince didn't kiss her to wake her up. No one who slept for a hundred years is likely to wake up. It was the other way round. He kisses her to wake himself up from the nightmare that has brought him there.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-03-21T02:58:00.240855Z"
-    },
-    {
       "text": "I felt like the avenging angel. I looked like a fat bald dude with a bad temper.",
       "character": "Max Payne",
       "game": "Max Payne 3",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 3",
       "selected_on": "2026-04-19T03:09:01.832859Z"
+    },
+    {
+      "text": "I had a hole in my second favorite drinking arm, and the only way out of the frozen storage was through the loading bay.",
+      "character": "Max Payne",
+      "game": "Max Payne 3",
+      "selected_on": "2026-04-20T03:09:46.178410Z"
     }
   ]
 }
