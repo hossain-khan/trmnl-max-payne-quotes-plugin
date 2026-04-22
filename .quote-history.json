@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Einstein was right, time is relative to the observer. When you're looking down the barrel of a gun, time slows down. Your whole life flashes by, heartbreak and scars. Stay with it, and you can live a lifetime in that split second.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-03-23T03:08:10.228114Z"
-    },
-    {
       "text": "God, I turned out to be such a damsel in distress.",
       "character": "Mona Sax",
       "game": "Max Payne 2",
@@ -179,6 +173,12 @@
       "character": "Mona Sax",
       "game": "Max Payne 2",
       "selected_on": "2026-04-21T03:09:12.442103Z"
+    },
+    {
+      "text": "I had a dream of my wife. She was dead. But it was all right.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-04-22T03:09:26.345139Z"
     }
   ]
 }
