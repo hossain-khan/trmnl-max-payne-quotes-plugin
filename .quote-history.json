@@ -1,18 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Another dark, rainy night. Another police station. Another futile crusade for amends. Time moves forward, and nothing changes.",
-      "character": "Max Payne",
-      "game": "Max Payne 3",
-      "selected_on": "2026-03-26T03:08:20.711402Z"
-    },
-    {
-      "text": "They were all dead. The final gunshot was an exclamation mark to everything that had led to this point. I released my finger from the trigger. And then it was over.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-03-27T03:08:29.201852Z"
-    },
-    {
       "text": "The past is a puzzle, like a broken mirror. As you piece it together, you cut yourself, your image keeps shifting. And you change with it. It could destroy you, drive you mad. It could set you free.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -185,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne",
       "selected_on": "2026-04-25T03:07:45.736207Z"
+    },
+    {
+      "text": "First day off the sauce and, somehow, I'd still ended up in the gutter.",
+      "character": "Max Payne",
+      "game": "Max Payne 3",
+      "selected_on": "2026-04-26T03:09:59.143395Z"
     }
   ]
 }
