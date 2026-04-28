@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "The way I see it there's two types of people: those who spend their lives trying to build a future and those who spend their lives trying to rebuild the past.",
-      "character": "Max Payne",
-      "game": "Max Payne 3",
-      "selected_on": "2026-03-29T03:08:17.084703Z"
-    },
-    {
       "text": "There are no choices. Nothing but a straight line. The illusion comes afterwards, when you ask 'Why me?' and 'What if?'",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne",
       "selected_on": "2026-04-27T03:11:20.825657Z"
+    },
+    {
+      "text": "The things that I want not to be true are true, and the things that I want to be true are not true.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-04-28T03:11:15.573369Z"
     }
   ]
 }
