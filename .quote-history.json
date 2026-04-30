@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Like all the bad things in my life, it started with the death of a woman. I couldn't save her.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-03-31T03:08:34.317650Z"
-    },
-    {
       "text": "Life knows two miseries; getting what you don't want and not getting what you want.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne",
       "selected_on": "2026-04-29T03:10:56.338344Z"
+    },
+    {
+      "text": "I don't know about angels, but it's fear that gives men wings.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-04-30T03:11:20.072729Z"
     }
   ]
 }
