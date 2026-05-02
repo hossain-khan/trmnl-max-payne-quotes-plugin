@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "There are things in life you cannot choose: how you feel.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-04-02T03:08:03.178633Z"
-    },
-    {
       "text": "A funhouse is a linear sequence of scares. Take it or leave it is the only choice given. Makes you think about free will: have our choices been made for us because of who we are?",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-05-01T03:11:14.610280Z"
+    },
+    {
+      "text": "So much for a lazy Sunday afternoon.",
+      "character": "Max Payne",
+      "game": "Max Payne 3",
+      "selected_on": "2026-05-02T03:09:29.896557Z"
     }
   ]
 }
