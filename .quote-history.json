@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "The past is a gaping hole. You try to run from it, but the more you run, the deeper, more terrible it grows behind you, its edges yawning at your heels.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-04-04T03:05:07.731576Z"
-    },
-    {
       "text": "It was a classic mob hit. No worries. No fuss. Just another page in the obituaries.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-05-03T03:11:29.232613Z"
+    },
+    {
+      "text": "Sometimes, Mona, you gotta go down to get up.",
+      "character": "Mona Sax",
+      "game": "Max Payne 2",
+      "selected_on": "2026-05-04T03:11:53.879302Z"
     }
   ]
 }
