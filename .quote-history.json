@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "It was a classic mob hit. No worries. No fuss. Just another page in the obituaries.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-04-05T03:08:26.213144Z"
-    },
-    {
       "text": "The genius of the hole: no matter how long you spend climbing out, you can still fall back down in an instant.",
       "character": "Max Payne",
       "game": "Max Payne 3",
@@ -179,6 +173,12 @@
       "character": "Mona Sax",
       "game": "Max Payne 2",
       "selected_on": "2026-05-04T03:11:53.879302Z"
+    },
+    {
+      "text": "It was a classic mob hit. No worries. No fuss. Just another page in the obituaries.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-05-05T03:10:32.264143Z"
     }
   ]
 }
