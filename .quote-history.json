@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Vladimir Lem. Dearest of all my friends. If I had known, I wouldn't have hurt you.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-04-07T03:08:14.617687Z"
-    },
-    {
       "text": "Like so many times before, I'd found myself alone, locked on a path of destruction. It was at my worst when I was at my best.",
       "character": "Max Payne",
       "game": "Max Payne 3",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-05-06T03:11:39.222941Z"
+    },
+    {
+      "text": "Your past has a way of sneaking up on you. You'll hear broken echoes of it everywhere, like a bad replay. You'll get mad at everyone for reminding you about it, even if it's all in your head.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-05-07T03:12:08.900280Z"
     }
   ]
 }
