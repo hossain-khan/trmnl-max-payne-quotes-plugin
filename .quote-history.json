@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "I had a bullet. I had a gun. Time to go to work.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-04-09T03:08:10.045216Z"
-    },
-    {
       "text": "Max, we got to stop meeting like this.",
       "character": "Mona Sax",
       "game": "Max Payne 2",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 3",
       "selected_on": "2026-05-08T03:09:36.440070Z"
+    },
+    {
+      "text": "Firing a gun is a binary choice. Either you pull the trigger or you don't.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-05-09T03:11:06.855360Z"
     }
   ]
 }
