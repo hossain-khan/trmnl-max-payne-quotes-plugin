@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Max, we got to stop meeting like this.",
-      "character": "Mona Sax",
-      "game": "Max Payne 2",
-      "selected_on": "2026-04-10T03:09:20.699710Z"
-    },
-    {
       "text": "If there's no light, it ain't a tunnel. It's a hole.",
       "character": "Max Payne",
       "game": "Max Payne 3",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-05-09T03:11:06.855360Z"
+    },
+    {
+      "text": "I tried not to think about when it was that my existence became less about the things that make up people's lives and more about the holes that losing those things leave behind.",
+      "character": "Max Payne",
+      "game": "Max Payne 3",
+      "selected_on": "2026-05-10T03:11:41.613239Z"
     }
   ]
 }
