@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "If there's no light, it ain't a tunnel. It's a hole.",
-      "character": "Max Payne",
-      "game": "Max Payne 3",
-      "selected_on": "2026-04-11T03:06:47.901237Z"
-    },
-    {
       "text": "When the darkness fell, New York City became something else, any old Sinatra song notwithstanding. Bad things happened in the night, on the streets of that other city. Noir York City.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 3",
       "selected_on": "2026-05-10T03:11:41.613239Z"
+    },
+    {
+      "text": "The way I see it there's two types of people: those who spend their lives trying to build a future and those who spend their lives trying to rebuild the past.",
+      "character": "Max Payne",
+      "game": "Max Payne 3",
+      "selected_on": "2026-05-11T03:13:49.910741Z"
     }
   ]
 }
