@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "The trouble with wanting something is the fear of losing it, or never getting it. The thought makes you weak.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-04-15T03:08:52.517410Z"
-    },
-    {
       "text": "A fugitive undercover cop framed for murder, following a trail of blood. These people were here for the reason I'd stayed alive. One way or another, this was going to end.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 3",
       "selected_on": "2026-05-14T03:11:27.750078Z"
+    },
+    {
+      "text": "This is love. When someone drags you from the wreckage when you have given in, ready to just lie there and die. This is love. When someone, no matter what the cost, shows you there is hope, a choice, that you can put down your gun. This is love. Love hurts.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-05-15T03:12:55.157108Z"
     }
   ]
 }
