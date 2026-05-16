@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "A fugitive undercover cop framed for murder, following a trail of blood. These people were here for the reason I'd stayed alive. One way or another, this was going to end.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-04-16T03:09:12.702359Z"
-    },
-    {
       "text": "I didn't deserve to walk away. There are no happy endings.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-05-15T03:12:55.157108Z"
+    },
+    {
+      "text": "Vladimir Lem. Dearest of all my friends. If I had known, I wouldn't have hurt you.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-05-16T03:10:23.078578Z"
     }
   ]
 }
