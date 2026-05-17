@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "I didn't deserve to walk away. There are no happy endings.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-04-17T03:09:11.156480Z"
-    },
-    {
       "text": "I lied to myself that it was over. I was still alive, my loved ones were still dead. It wasn't over.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-05-16T03:10:23.078578Z"
+    },
+    {
+      "text": "Max, we got to stop meeting like this.",
+      "character": "Mona Sax",
+      "game": "Max Payne 2",
+      "selected_on": "2026-05-17T03:12:03.462089Z"
     }
   ]
 }
