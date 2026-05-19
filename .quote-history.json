@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "When had I ever needed to invite trouble in? It always found me, no matter where I hid.",
-      "character": "Max Payne",
-      "game": "Max Payne 3",
-      "selected_on": "2026-04-19T03:09:01.832859Z"
-    },
-    {
       "text": "I had a hole in my second favorite drinking arm, and the only way out of the frozen storage was through the loading bay.",
       "character": "Max Payne",
       "game": "Max Payne 3",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-05-18T03:14:13.294056Z"
+    },
+    {
+      "text": "There are no choices. Nothing but a straight line. The illusion comes afterwards, when you ask 'Why me?' and 'What if?'",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-05-19T03:12:53.014849Z"
     }
   ]
 }
