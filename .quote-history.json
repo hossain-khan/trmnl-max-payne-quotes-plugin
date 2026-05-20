@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "I had a hole in my second favorite drinking arm, and the only way out of the frozen storage was through the loading bay.",
-      "character": "Max Payne",
-      "game": "Max Payne 3",
-      "selected_on": "2026-04-20T03:09:46.178410Z"
-    },
-    {
       "text": "What are you so afraid of? What do you want from me?",
       "character": "Mona Sax",
       "game": "Max Payne 2",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-05-19T03:12:53.014849Z"
+    },
+    {
+      "text": "The trouble with wanting something is the fear of losing it, or never getting it. The thought makes you weak.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-05-20T03:12:47.793373Z"
     }
   ]
 }
