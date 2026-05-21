@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "What are you so afraid of? What do you want from me?",
-      "character": "Mona Sax",
-      "game": "Max Payne 2",
-      "selected_on": "2026-04-21T03:09:12.442103Z"
-    },
-    {
       "text": "I had a dream of my wife. She was dead. But it was all right.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-05-20T03:12:47.793373Z"
+    },
+    {
+      "text": "The storm seemed to lose its frenzy. The ragged clouds gave way to the stars above.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-05-21T03:13:24.996993Z"
     }
   ]
 }
