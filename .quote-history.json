@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "I was in a New York minute. In a New York minute, everything can change.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-04-23T03:09:22.050061Z"
-    },
-    {
       "text": "I felt like the avenging angel. I looked like a fat bald dude with a bad temper.",
       "character": "Max Payne",
       "game": "Max Payne 3",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-05-22T03:13:19.455032Z"
+    },
+    {
+      "text": "They were all dead. The final gunshot was an exclamation mark to everything that had led to this point. I released my finger from the trigger. And then it was over.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-05-23T03:10:27.927617Z"
     }
   ]
 }
