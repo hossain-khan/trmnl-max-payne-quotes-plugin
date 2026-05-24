@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "I felt like the avenging angel. I looked like a fat bald dude with a bad temper.",
-      "character": "Max Payne",
-      "game": "Max Payne 3",
-      "selected_on": "2026-04-24T03:09:35.602618Z"
-    },
-    {
       "text": "None of us was a saint.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne",
       "selected_on": "2026-05-23T03:10:27.927617Z"
+    },
+    {
+      "text": "I was in a New York minute. In a New York minute, everything can change.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-05-24T03:12:48.294222Z"
     }
   ]
 }
