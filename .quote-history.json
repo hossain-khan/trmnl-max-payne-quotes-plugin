@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "None of us was a saint.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-04-25T03:07:45.736207Z"
-    },
-    {
       "text": "First day off the sauce and, somehow, I'd still ended up in the gutter.",
       "character": "Max Payne",
       "game": "Max Payne 3",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne",
       "selected_on": "2026-05-24T03:12:48.294222Z"
+    },
+    {
+      "text": "Einstein was right, time is relative to the observer. When you're looking down the barrel of a gun, time slows down. Your whole life flashes by, heartbreak and scars. Stay with it, and you can live a lifetime in that split second.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-05-25T03:14:49.554517Z"
     }
   ]
 }
