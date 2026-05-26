@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "First day off the sauce and, somehow, I'd still ended up in the gutter.",
-      "character": "Max Payne",
-      "game": "Max Payne 3",
-      "selected_on": "2026-04-26T03:09:59.143395Z"
-    },
-    {
       "text": "I hadn't slept in a million years.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-05-25T03:14:49.554517Z"
+    },
+    {
+      "text": "None of us was a saint.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-05-26T03:13:00.142948Z"
     }
   ]
 }
