@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "I hadn't slept in a million years.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-04-27T03:11:20.825657Z"
-    },
-    {
       "text": "The things that I want not to be true are true, and the things that I want to be true are not true.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne",
       "selected_on": "2026-05-26T03:13:00.142948Z"
+    },
+    {
+      "text": "Like all the bad things in my life, it started with the death of a woman. I couldn't save her.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-05-27T03:14:19.279318Z"
     }
   ]
 }
