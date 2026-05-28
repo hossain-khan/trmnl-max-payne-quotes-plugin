@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "The things that I want not to be true are true, and the things that I want to be true are not true.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-04-28T03:11:15.573369Z"
-    },
-    {
       "text": "The sun went down with practiced bravado. Twilight crawled across the sky, laden with foreboding.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-05-27T03:14:19.279318Z"
+    },
+    {
+      "text": "Another dark, rainy night. Another police station. Another futile crusade for amends. Time moves forward, and nothing changes.",
+      "character": "Max Payne",
+      "game": "Max Payne 3",
+      "selected_on": "2026-05-28T03:15:07.819384Z"
     }
   ]
 }
