@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "The sun went down with practiced bravado. Twilight crawled across the sky, laden with foreboding.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-04-29T03:10:56.338344Z"
-    },
-    {
       "text": "I don't know about angels, but it's fear that gives men wings.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 3",
       "selected_on": "2026-05-28T03:15:07.819384Z"
+    },
+    {
+      "text": "When the darkness fell, New York City became something else, any old Sinatra song notwithstanding. Bad things happened in the night, on the streets of that other city. Noir York City.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-05-29T03:13:37.793415Z"
     }
   ]
 }
