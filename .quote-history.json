@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "I don't know about angels, but it's fear that gives men wings.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-04-30T03:11:20.072729Z"
-    },
-    {
       "text": "Death is inevitable. Our fear of it makes us play safe, blocks out emotion. It's a losing game. Without passion you are already dead.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne",
       "selected_on": "2026-05-29T03:13:37.793415Z"
+    },
+    {
+      "text": "I don't know about angels, but it's fear that gives men wings.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-05-30T03:11:30.787782Z"
     }
   ]
 }
