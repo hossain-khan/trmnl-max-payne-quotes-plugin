@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Death is inevitable. Our fear of it makes us play safe, blocks out emotion. It's a losing game. Without passion you are already dead.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-05-01T03:11:14.610280Z"
-    },
-    {
       "text": "So much for a lazy Sunday afternoon.",
       "character": "Max Payne",
       "game": "Max Payne 3",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne",
       "selected_on": "2026-05-30T03:11:30.787782Z"
+    },
+    {
+      "text": "I had a hole in my second favorite drinking arm, and the only way out of the frozen storage was through the loading bay.",
+      "character": "Max Payne",
+      "game": "Max Payne 3",
+      "selected_on": "2026-05-31T03:14:02.354630Z"
     }
   ]
 }
