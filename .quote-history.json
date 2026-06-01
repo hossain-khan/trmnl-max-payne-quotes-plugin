@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "So much for a lazy Sunday afternoon.",
-      "character": "Max Payne",
-      "game": "Max Payne 3",
-      "selected_on": "2026-05-02T03:09:29.896557Z"
-    },
-    {
       "text": "There are things in life you cannot choose: how you feel.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 3",
       "selected_on": "2026-05-31T03:14:02.354630Z"
+    },
+    {
+      "text": "I hadn't slept in a million years.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-06-01T03:15:48.619835Z"
     }
   ]
 }
