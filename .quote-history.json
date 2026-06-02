@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "There are things in life you cannot choose: how you feel.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-05-03T03:11:29.232613Z"
-    },
-    {
       "text": "Sometimes, Mona, you gotta go down to get up.",
       "character": "Mona Sax",
       "game": "Max Payne 2",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne",
       "selected_on": "2026-06-01T03:15:48.619835Z"
+    },
+    {
+      "text": "Death is inevitable. Our fear of it makes us play safe, blocks out emotion. It's a losing game. Without passion you are already dead.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-06-02T03:15:33.602933Z"
     }
   ]
 }
