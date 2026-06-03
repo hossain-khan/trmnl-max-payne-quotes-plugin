@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Sometimes, Mona, you gotta go down to get up.",
-      "character": "Mona Sax",
-      "game": "Max Payne 2",
-      "selected_on": "2026-05-04T03:11:53.879302Z"
-    },
-    {
       "text": "It was a classic mob hit. No worries. No fuss. Just another page in the obituaries.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-06-02T03:15:33.602933Z"
+    },
+    {
+      "text": "I felt like the avenging angel. I looked like a fat bald dude with a bad temper.",
+      "character": "Max Payne",
+      "game": "Max Payne 3",
+      "selected_on": "2026-06-03T03:15:12.116456Z"
     }
   ]
 }
