@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Nothing to do but wait. Watching the dead-end street of my life. My brain felt like a migraine waiting to happen.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-05-06T03:11:39.222941Z"
-    },
-    {
       "text": "Your past has a way of sneaking up on you. You'll hear broken echoes of it everywhere, like a bad replay. You'll get mad at everyone for reminding you about it, even if it's all in your head.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -179,6 +173,12 @@
       "character": "Mona Sax",
       "game": "Max Payne 2",
       "selected_on": "2026-06-04T03:14:44.420328Z"
+    },
+    {
+      "text": "Life was good. The sun setting on a sweet summer's day, the smell of freshly mowed lawns, the sounds of children playing — A house across the river, on the Jersey-side. A beautiful wife and a baby girl. The American Dream come true. But dreams have a nasty habit of going bad when you're not looking.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-06-05T03:14:23.662267Z"
     }
   ]
 }
