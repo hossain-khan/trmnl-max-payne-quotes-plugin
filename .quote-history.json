@@ -1,18 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Your past has a way of sneaking up on you. You'll hear broken echoes of it everywhere, like a bad replay. You'll get mad at everyone for reminding you about it, even if it's all in your head.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-05-07T03:12:08.900280Z"
-    },
-    {
-      "text": "Like so many times before, I'd found myself alone, locked on a path of destruction. It was at my worst when I was at my best.",
-      "character": "Max Payne",
-      "game": "Max Payne 3",
-      "selected_on": "2026-05-08T03:09:36.440070Z"
-    },
-    {
       "text": "Firing a gun is a binary choice. Either you pull the trigger or you don't.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -185,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 3",
       "selected_on": "2026-06-06T03:11:30.979023Z"
+    },
+    {
+      "text": "Collecting evidence had gotten old a few hundred bullets back. I was already so far beyond the point of no return I couldn't even remember what it had looked like when I had passed it.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-06-07T03:14:06.820282Z"
     }
   ]
 }
