@@ -1,18 +1,6 @@
 {
   "quotes": [
     {
-      "text": "If there's no light, it ain't a tunnel. It's a hole.",
-      "character": "Max Payne",
-      "game": "Max Payne 3",
-      "selected_on": "2026-05-12T03:11:48.488579Z"
-    },
-    {
-      "text": "I had a bullet. I had a gun. Time to go to work.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-05-13T03:12:27.846625Z"
-    },
-    {
       "text": "I was still alive, and still not all that happy about it.",
       "character": "Max Payne",
       "game": "Max Payne 3",
@@ -185,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-06-11T03:11:45.708286Z"
+    },
+    {
+      "text": "A funhouse is a linear sequence of scares. Take it or leave it is the only choice given. Makes you think about free will: have our choices been made for us because of who we are?",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-06-12T03:14:17.644057Z"
     }
   ]
 }
