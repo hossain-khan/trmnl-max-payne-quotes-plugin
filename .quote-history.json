@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "I was still alive, and still not all that happy about it.",
-      "character": "Max Payne",
-      "game": "Max Payne 3",
-      "selected_on": "2026-05-14T03:11:27.750078Z"
-    },
-    {
       "text": "This is love. When someone drags you from the wreckage when you have given in, ready to just lie there and die. This is love. When someone, no matter what the cost, shows you there is hope, a choice, that you can put down your gun. This is love. Love hurts.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-06-12T03:14:17.644057Z"
+    },
+    {
+      "text": "All this time we got the fable of Sleeping Beauty wrong. The prince didn't kiss her to wake her up. No one who slept for a hundred years is likely to wake up. It was the other way round. He kisses her to wake himself up from the nightmare that has brought him there.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-06-13T03:12:44.479170Z"
     }
   ]
 }
