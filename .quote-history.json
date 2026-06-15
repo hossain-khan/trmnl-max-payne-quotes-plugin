@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Vladimir Lem. Dearest of all my friends. If I had known, I wouldn't have hurt you.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-05-16T03:10:23.078578Z"
-    },
-    {
       "text": "Max, we got to stop meeting like this.",
       "character": "Mona Sax",
       "game": "Max Payne 2",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne",
       "selected_on": "2026-06-14T03:15:04.145379Z"
+    },
+    {
+      "text": "Like so many times before, I'd found myself alone, locked on a path of destruction. It was at my worst when I was at my best.",
+      "character": "Max Payne",
+      "game": "Max Payne 3",
+      "selected_on": "2026-06-15T03:16:08.068667Z"
     }
   ]
 }
