@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Max, we got to stop meeting like this.",
-      "character": "Mona Sax",
-      "game": "Max Payne 2",
-      "selected_on": "2026-05-17T03:12:03.462089Z"
-    },
-    {
       "text": "I lied to myself that it was over. I was still alive, my loved ones were still dead. It wasn't over.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 3",
       "selected_on": "2026-06-15T03:16:08.068667Z"
+    },
+    {
+      "text": "Vladimir Lem. Dearest of all my friends. If I had known, I wouldn't have hurt you.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-06-16T03:14:26.748206Z"
     }
   ]
 }
