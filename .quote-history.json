@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "The trouble with wanting something is the fear of losing it, or never getting it. The thought makes you weak.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-05-20T03:12:47.793373Z"
-    },
-    {
       "text": "The storm seemed to lose its frenzy. The ragged clouds gave way to the stars above.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne",
       "selected_on": "2026-06-18T03:13:42.977413Z"
+    },
+    {
+      "text": "Max, we got to stop meeting like this.",
+      "character": "Mona Sax",
+      "game": "Max Payne 2",
+      "selected_on": "2026-06-19T03:14:43.231248Z"
     }
   ]
 }
