@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "They were all dead. The final gunshot was an exclamation mark to everything that had led to this point. I released my finger from the trigger. And then it was over.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-05-23T03:10:27.927617Z"
-    },
-    {
       "text": "I was in a New York minute. In a New York minute, everything can change.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-06-21T03:15:04.915004Z"
+    },
+    {
+      "text": "When had I ever needed to invite trouble in? It always found me, no matter where I hid.",
+      "character": "Max Payne",
+      "game": "Max Payne 3",
+      "selected_on": "2026-06-22T03:15:48.649315Z"
     }
   ]
 }
