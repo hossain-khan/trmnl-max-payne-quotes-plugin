@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "I was in a New York minute. In a New York minute, everything can change.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-05-24T03:12:48.294222Z"
-    },
-    {
       "text": "Einstein was right, time is relative to the observer. When you're looking down the barrel of a gun, time slows down. Your whole life flashes by, heartbreak and scars. Stay with it, and you can live a lifetime in that split second.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-06-23T03:12:07.499230Z"
+    },
+    {
+      "text": "Nothing to do but wait. Watching the dead-end street of my life. My brain felt like a migraine waiting to happen.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-06-24T03:12:24.780007Z"
     }
   ]
 }
