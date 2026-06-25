@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Einstein was right, time is relative to the observer. When you're looking down the barrel of a gun, time slows down. Your whole life flashes by, heartbreak and scars. Stay with it, and you can live a lifetime in that split second.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-05-25T03:14:49.554517Z"
-    },
-    {
       "text": "None of us was a saint.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-06-24T03:12:24.780007Z"
+    },
+    {
+      "text": "Your past has a way of sneaking up on you. You'll hear broken echoes of it everywhere, like a bad replay. You'll get mad at everyone for reminding you about it, even if it's all in your head.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-06-25T03:12:29.886016Z"
     }
   ]
 }
