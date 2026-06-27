@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Like all the bad things in my life, it started with the death of a woman. I couldn't save her.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-05-27T03:14:19.279318Z"
-    },
-    {
       "text": "Another dark, rainy night. Another police station. Another futile crusade for amends. Time moves forward, and nothing changes.",
       "character": "Max Payne",
       "game": "Max Payne 3",
@@ -185,6 +179,12 @@
       "character": "Mona Sax",
       "game": "Max Payne 2",
       "selected_on": "2026-06-26T03:13:15.465494Z"
+    },
+    {
+      "text": "None of us was a saint.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-06-27T03:11:28.087095Z"
     }
   ]
 }
