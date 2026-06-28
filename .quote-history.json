@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Another dark, rainy night. Another police station. Another futile crusade for amends. Time moves forward, and nothing changes.",
-      "character": "Max Payne",
-      "game": "Max Payne 3",
-      "selected_on": "2026-05-28T03:15:07.819384Z"
-    },
-    {
       "text": "When the darkness fell, New York City became something else, any old Sinatra song notwithstanding. Bad things happened in the night, on the streets of that other city. Noir York City.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne",
       "selected_on": "2026-06-27T03:11:28.087095Z"
+    },
+    {
+      "text": "They were all dead. The final gunshot was an exclamation mark to everything that had led to this point. I released my finger from the trigger. And then it was over.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-06-28T03:13:21.343826Z"
     }
   ]
 }
