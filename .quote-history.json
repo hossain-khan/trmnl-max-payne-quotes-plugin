@@ -1,18 +1,6 @@
 {
   "quotes": [
     {
-      "text": "When the darkness fell, New York City became something else, any old Sinatra song notwithstanding. Bad things happened in the night, on the streets of that other city. Noir York City.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-05-29T03:13:37.793415Z"
-    },
-    {
-      "text": "I don't know about angels, but it's fear that gives men wings.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-05-30T03:11:30.787782Z"
-    },
-    {
       "text": "I had a hole in my second favorite drinking arm, and the only way out of the frozen storage was through the loading bay.",
       "character": "Max Payne",
       "game": "Max Payne 3",
@@ -185,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne",
       "selected_on": "2026-06-28T03:13:21.343826Z"
+    },
+    {
+      "text": "Firing a gun is a binary choice. Either you pull the trigger or you don't.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-06-29T03:15:01.284100Z"
     }
   ]
 }
