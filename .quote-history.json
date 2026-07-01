@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "I had a hole in my second favorite drinking arm, and the only way out of the frozen storage was through the loading bay.",
-      "character": "Max Payne",
-      "game": "Max Payne 3",
-      "selected_on": "2026-05-31T03:14:02.354630Z"
-    },
-    {
       "text": "I hadn't slept in a million years.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne 3",
       "selected_on": "2026-06-30T03:12:30.813065Z"
+    },
+    {
+      "text": "Einstein was right, time is relative to the observer. When you're looking down the barrel of a gun, time slows down. Your whole life flashes by, heartbreak and scars. Stay with it, and you can live a lifetime in that split second.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-07-01T03:13:45.954147Z"
     }
   ]
 }
