@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "I hadn't slept in a million years.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-06-01T03:15:48.619835Z"
-    },
-    {
       "text": "Death is inevitable. Our fear of it makes us play safe, blocks out emotion. It's a losing game. Without passion you are already dead.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-07-01T03:13:45.954147Z"
+    },
+    {
+      "text": "If there's no light, it ain't a tunnel. It's a hole.",
+      "character": "Max Payne",
+      "game": "Max Payne 3",
+      "selected_on": "2026-07-02T03:10:52.059133Z"
     }
   ]
 }
