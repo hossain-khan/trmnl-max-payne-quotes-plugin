@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "I felt like the avenging angel. I looked like a fat bald dude with a bad temper.",
-      "character": "Max Payne",
-      "game": "Max Payne 3",
-      "selected_on": "2026-06-03T03:15:12.116456Z"
-    },
-    {
       "text": "Sometimes, Mona, you gotta go down to get up.",
       "character": "Mona Sax",
       "game": "Max Payne 2",
@@ -185,6 +179,12 @@
       "character": "Mona Sax",
       "game": "Max Payne 2",
       "selected_on": "2026-07-03T03:08:29.127999Z"
+    },
+    {
+      "text": "Another dark, rainy night. Another police station. Another futile crusade for amends. Time moves forward, and nothing changes.",
+      "character": "Max Payne",
+      "game": "Max Payne 3",
+      "selected_on": "2026-07-04T03:07:39.724372Z"
     }
   ]
 }
