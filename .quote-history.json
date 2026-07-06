@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Life was good. The sun setting on a sweet summer's day, the smell of freshly mowed lawns, the sounds of children playing — A house across the river, on the Jersey-side. A beautiful wife and a baby girl. The American Dream come true. But dreams have a nasty habit of going bad when you're not looking.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-06-05T03:14:23.662267Z"
-    },
-    {
       "text": "First day off the sauce and, somehow, I'd still ended up in the gutter.",
       "character": "Max Payne",
       "game": "Max Payne 3",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-07-05T03:09:55.705231Z"
+    },
+    {
+      "text": "The trouble with wanting something is the fear of losing it, or never getting it. The thought makes you weak.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-07-06T03:11:06.950203Z"
     }
   ]
 }
