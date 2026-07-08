@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Collecting evidence had gotten old a few hundred bullets back. I was already so far beyond the point of no return I couldn't even remember what it had looked like when I had passed it.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-06-07T03:14:06.820282Z"
-    },
-    {
       "text": "God, I turned out to be such a damsel in distress.",
       "character": "Mona Sax",
       "game": "Max Payne 2",
@@ -185,6 +179,12 @@
       "character": "Mona Sax",
       "game": "Max Payne 2",
       "selected_on": "2026-07-07T03:09:25.508521Z"
+    },
+    {
+      "text": "So much for a lazy Sunday afternoon.",
+      "character": "Max Payne",
+      "game": "Max Payne 3",
+      "selected_on": "2026-07-08T03:06:43.597921Z"
     }
   ]
 }
