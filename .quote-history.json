@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "God, I turned out to be such a damsel in distress.",
-      "character": "Mona Sax",
-      "game": "Max Payne 2",
-      "selected_on": "2026-06-08T03:15:24.608631Z"
-    },
-    {
       "text": "I tried not to think about when it was that my existence became less about the things that make up people's lives and more about the holes that losing those things leave behind.",
       "character": "Max Payne",
       "game": "Max Payne 3",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne 3",
       "selected_on": "2026-07-08T03:06:43.597921Z"
+    },
+    {
+      "text": "I had a dream of my wife. She was dead. But it was all right.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-07-09T03:08:50.915739Z"
     }
   ]
 }
