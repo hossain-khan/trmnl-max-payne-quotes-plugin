@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "The things that I want not to be true are true, and the things that I want to be true are not true.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-06-10T03:13:07.046827Z"
-    },
-    {
       "text": "Life knows two miseries; getting what you don't want and not getting what you want.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne",
       "selected_on": "2026-07-10T03:08:33.927801Z"
+    },
+    {
+      "text": "I tried not to think about when it was that my existence became less about the things that make up people's lives and more about the holes that losing those things leave behind.",
+      "character": "Max Payne",
+      "game": "Max Payne 3",
+      "selected_on": "2026-07-11T03:06:05.804152Z"
     }
   ]
 }
