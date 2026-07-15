@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "It was a classic mob hit. No worries. No fuss. Just another page in the obituaries.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-06-14T03:15:04.145379Z"
-    },
-    {
       "text": "Like so many times before, I'd found myself alone, locked on a path of destruction. It was at my worst when I was at my best.",
       "character": "Max Payne",
       "game": "Max Payne 3",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne",
       "selected_on": "2026-07-14T03:05:36.667185Z"
+    },
+    {
+      "text": "I had a hole in my second favorite drinking arm, and the only way out of the frozen storage was through the loading bay.",
+      "character": "Max Payne",
+      "game": "Max Payne 3",
+      "selected_on": "2026-07-15T03:05:58.009461Z"
     }
   ]
 }
