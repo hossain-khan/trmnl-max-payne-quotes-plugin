@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Vladimir Lem. Dearest of all my friends. If I had known, I wouldn't have hurt you.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-06-16T03:14:26.748206Z"
-    },
-    {
       "text": "A fugitive undercover cop framed for murder, following a trail of blood. These people were here for the reason I'd stayed alive. One way or another, this was going to end.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne 3",
       "selected_on": "2026-07-16T03:06:01.053121Z"
+    },
+    {
+      "text": "God, I turned out to be such a damsel in distress.",
+      "character": "Mona Sax",
+      "game": "Max Payne 2",
+      "selected_on": "2026-07-17T03:06:15.571877Z"
     }
   ]
 }
