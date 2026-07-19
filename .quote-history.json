@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "I had a bullet. I had a gun. Time to go to work.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-06-18T03:13:42.977413Z"
-    },
-    {
       "text": "Max, we got to stop meeting like this.",
       "character": "Mona Sax",
       "game": "Max Payne 2",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne 3",
       "selected_on": "2026-07-18T03:05:09.251896Z"
+    },
+    {
+      "text": "I had a bullet. I had a gun. Time to go to work.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-07-19T03:07:04.000676Z"
     }
   ]
 }
