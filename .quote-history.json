@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "There are things in life you cannot choose: how you feel.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-06-21T03:15:04.915004Z"
-    },
-    {
       "text": "When had I ever needed to invite trouble in? It always found me, no matter where I hid.",
       "character": "Max Payne",
       "game": "Max Payne 3",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-07-21T03:06:30.829306Z"
+    },
+    {
+      "text": "Life was good. The sun setting on a sweet summer's day, the smell of freshly mowed lawns, the sounds of children playing — A house across the river, on the Jersey-side. A beautiful wife and a baby girl. The American Dream come true. But dreams have a nasty habit of going bad when you're not looking.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-07-22T03:06:33.014712Z"
     }
   ]
 }
