@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Nothing to do but wait. Watching the dead-end street of my life. My brain felt like a migraine waiting to happen.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-06-24T03:12:24.780007Z"
-    },
-    {
       "text": "Your past has a way of sneaking up on you. You'll hear broken echoes of it everywhere, like a bad replay. You'll get mad at everyone for reminding you about it, even if it's all in your head.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne",
       "selected_on": "2026-07-24T03:06:20.609995Z"
+    },
+    {
+      "text": "One thing left to do. I was compelled to give Vlad his gun back. One bullet at a time.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-07-25T03:05:35.568214Z"
     }
   ]
 }
