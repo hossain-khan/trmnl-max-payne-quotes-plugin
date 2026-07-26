@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Your past has a way of sneaking up on you. You'll hear broken echoes of it everywhere, like a bad replay. You'll get mad at everyone for reminding you about it, even if it's all in your head.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-06-25T03:12:29.886016Z"
-    },
-    {
       "text": "When you're walking in heaven, the bad things are easier to believe.",
       "character": "Mona Sax",
       "game": "Max Payne 2",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-07-25T03:05:35.568214Z"
+    },
+    {
+      "text": "Max, we got to stop meeting like this.",
+      "character": "Mona Sax",
+      "game": "Max Payne 2",
+      "selected_on": "2026-07-26T03:06:41.035431Z"
     }
   ]
 }
