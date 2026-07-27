@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "When you're walking in heaven, the bad things are easier to believe.",
-      "character": "Mona Sax",
-      "game": "Max Payne 2",
-      "selected_on": "2026-06-26T03:13:15.465494Z"
-    },
-    {
       "text": "None of us was a saint.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -185,6 +179,12 @@
       "character": "Mona Sax",
       "game": "Max Payne 2",
       "selected_on": "2026-07-26T03:06:41.035431Z"
+    },
+    {
+      "text": "I was in a computer game. Funny as hell, it was the most horrible thing I could think of.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-07-27T03:08:30.353335Z"
     }
   ]
 }
