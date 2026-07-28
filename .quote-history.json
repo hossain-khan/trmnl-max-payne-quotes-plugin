@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "None of us was a saint.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-06-27T03:11:28.087095Z"
-    },
-    {
       "text": "They were all dead. The final gunshot was an exclamation mark to everything that had led to this point. I released my finger from the trigger. And then it was over.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne",
       "selected_on": "2026-07-27T03:08:30.353335Z"
+    },
+    {
+      "text": "All this time we got the fable of Sleeping Beauty wrong. The prince didn't kiss her to wake her up. No one who slept for a hundred years is likely to wake up. It was the other way round. He kisses her to wake himself up from the nightmare that has brought him there.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-07-28T03:06:04.222768Z"
     }
   ]
 }
