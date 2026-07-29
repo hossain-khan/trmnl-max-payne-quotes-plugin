@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "They were all dead. The final gunshot was an exclamation mark to everything that had led to this point. I released my finger from the trigger. And then it was over.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-06-28T03:13:21.343826Z"
-    },
-    {
       "text": "Firing a gun is a binary choice. Either you pull the trigger or you don't.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-07-28T03:06:04.222768Z"
+    },
+    {
+      "text": "I was in a New York minute. In a New York minute, everything can change.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-07-29T03:05:17.968456Z"
     }
   ]
 }
