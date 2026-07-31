@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "I was still alive, and still not all that happy about it.",
-      "character": "Max Payne",
-      "game": "Max Payne 3",
-      "selected_on": "2026-06-30T03:12:30.813065Z"
-    },
-    {
       "text": "Einstein was right, time is relative to the observer. When you're looking down the barrel of a gun, time slows down. Your whole life flashes by, heartbreak and scars. Stay with it, and you can live a lifetime in that split second.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne",
       "selected_on": "2026-07-30T03:06:00.461941Z"
+    },
+    {
+      "text": "The past is a puzzle, like a broken mirror. As you piece it together, you cut yourself, your image keeps shifting. And you change with it. It could destroy you, drive you mad. It could set you free.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-07-31T03:07:03.908915Z"
     }
   ]
 }
