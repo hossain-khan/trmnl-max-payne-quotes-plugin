@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Another dark, rainy night. Another police station. Another futile crusade for amends. Time moves forward, and nothing changes.",
-      "character": "Max Payne",
-      "game": "Max Payne 3",
-      "selected_on": "2026-07-04T03:07:39.724372Z"
-    },
-    {
       "text": "The past is a gaping hole. You try to run from it, but the more you run, the deeper, more terrible it grows behind you, its edges yawning at your heels.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-08-03T03:07:31.454154Z"
+    },
+    {
+      "text": "A funhouse is a linear sequence of scares. Take it or leave it is the only choice given. Makes you think about free will: have our choices been made for us because of who we are?",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-08-04T03:06:16.543689Z"
     }
   ]
 }
