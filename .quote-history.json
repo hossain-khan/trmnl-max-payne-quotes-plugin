@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "The past is a gaping hole. You try to run from it, but the more you run, the deeper, more terrible it grows behind you, its edges yawning at your heels.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-07-05T03:09:55.705231Z"
-    },
-    {
       "text": "The trouble with wanting something is the fear of losing it, or never getting it. The thought makes you weak.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-08-04T03:06:16.543689Z"
+    },
+    {
+      "text": "The sun went down with practiced bravado. Twilight crawled across the sky, laden with foreboding.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-08-05T03:05:58.297091Z"
     }
   ]
 }
