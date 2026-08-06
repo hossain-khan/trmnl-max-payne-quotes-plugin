@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "The trouble with wanting something is the fear of losing it, or never getting it. The thought makes you weak.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-07-06T03:11:06.950203Z"
-    },
-    {
       "text": "Sometimes, Mona, you gotta go down to get up.",
       "character": "Mona Sax",
       "game": "Max Payne 2",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne",
       "selected_on": "2026-08-05T03:05:58.297091Z"
+    },
+    {
+      "text": "The trouble with wanting something is the fear of losing it, or never getting it. The thought makes you weak.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-08-06T03:05:37.879333Z"
     }
   ]
 }
