@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "When the darkness fell, New York City became something else, any old Sinatra song notwithstanding. Bad things happened in the night, on the streets of that other city. Noir York City.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-07-13T03:08:02.714708Z"
-    },
-    {
       "text": "The things that I want not to be true are true, and the things that I want to be true are not true.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne 3",
       "selected_on": "2026-08-12T02:55:10.661043Z"
+    },
+    {
+      "text": "The genius of the hole: no matter how long you spend climbing out, you can still fall back down in an instant.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-08-13T02:56:22.791421Z"
     }
   ]
 }
