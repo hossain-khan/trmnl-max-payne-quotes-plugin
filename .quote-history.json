@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "God, I turned out to be such a damsel in distress.",
-      "character": "Mona Sax",
-      "game": "Max Payne 2",
-      "selected_on": "2026-07-17T03:06:15.571877Z"
-    },
-    {
       "text": "I felt like the avenging angel. I looked like a fat bald dude with a bad temper.",
       "character": "Max Payne",
       "game": "Max Payne 3",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne 3",
       "selected_on": "2026-08-16T02:29:28.784646Z"
+    },
+    {
+      "text": "God, I turned out to be such a damsel in distress.",
+      "character": "Mona Sax",
+      "game": "Max Payne 2",
+      "selected_on": "2026-08-17T02:29:12.948430Z"
     }
   ]
 }
