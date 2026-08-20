@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Like all the bad things in my life, it started with the death of a woman. I couldn't save her.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-07-20T03:33:11.166725Z"
-    },
-    {
       "text": "I lied to myself that it was over. I was still alive, my loved ones were still dead. It wasn't over.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-08-19T02:27:46.674345Z"
+    },
+    {
+      "text": "I had a bullet. I had a gun. Time to go to work.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-08-20T02:26:49.158567Z"
     }
   ]
 }
