@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "I lied to myself that it was over. I was still alive, my loved ones were still dead. It wasn't over.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-07-21T03:06:30.829306Z"
-    },
-    {
       "text": "Life was good. The sun setting on a sweet summer's day, the smell of freshly mowed lawns, the sounds of children playing — A house across the river, on the Jersey-side. A beautiful wife and a baby girl. The American Dream come true. But dreams have a nasty habit of going bad when you're not looking.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne",
       "selected_on": "2026-08-20T02:26:49.158567Z"
+    },
+    {
+      "text": "I don't know about angels, but it's fear that gives men wings.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-08-21T02:30:59.015830Z"
     }
   ]
 }
