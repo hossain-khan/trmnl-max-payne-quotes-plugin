@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Nothing is a cliché when it's happening to you.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-07-23T03:06:36.980732Z"
-    },
-    {
       "text": "Collecting evidence had gotten old a few hundred bullets back. I was already so far beyond the point of no return I couldn't even remember what it had looked like when I had passed it.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne 3",
       "selected_on": "2026-08-22T02:25:14.635925Z"
+    },
+    {
+      "text": "I hadn't slept in a million years.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-08-23T02:31:07.781023Z"
     }
   ]
 }
