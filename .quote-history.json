@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Collecting evidence had gotten old a few hundred bullets back. I was already so far beyond the point of no return I couldn't even remember what it had looked like when I had passed it.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-07-24T03:06:20.609995Z"
-    },
-    {
       "text": "One thing left to do. I was compelled to give Vlad his gun back. One bullet at a time.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne",
       "selected_on": "2026-08-23T02:31:07.781023Z"
+    },
+    {
+      "text": "They were all dead. The final gunshot was an exclamation mark to everything that had led to this point. I released my finger from the trigger. And then it was over.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-08-24T02:30:52.729027Z"
     }
   ]
 }
