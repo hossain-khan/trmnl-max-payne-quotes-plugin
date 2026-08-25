@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "One thing left to do. I was compelled to give Vlad his gun back. One bullet at a time.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-07-25T03:05:35.568214Z"
-    },
-    {
       "text": "Max, we got to stop meeting like this.",
       "character": "Mona Sax",
       "game": "Max Payne 2",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne",
       "selected_on": "2026-08-24T02:30:52.729027Z"
+    },
+    {
+      "text": "What are you so afraid of? What do you want from me?",
+      "character": "Mona Sax",
+      "game": "Max Payne 2",
+      "selected_on": "2026-08-25T02:27:16.226765Z"
     }
   ]
 }
