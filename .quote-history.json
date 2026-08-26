@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Max, we got to stop meeting like this.",
-      "character": "Mona Sax",
-      "game": "Max Payne 2",
-      "selected_on": "2026-07-26T03:06:41.035431Z"
-    },
-    {
       "text": "I was in a computer game. Funny as hell, it was the most horrible thing I could think of.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -185,6 +179,12 @@
       "character": "Mona Sax",
       "game": "Max Payne 2",
       "selected_on": "2026-08-25T02:27:16.226765Z"
+    },
+    {
+      "text": "Firing a gun is a binary choice. Either you pull the trigger or you don't.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-08-26T02:32:02.627111Z"
     }
   ]
 }
