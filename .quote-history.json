@@ -1,18 +1,6 @@
 {
   "quotes": [
     {
-      "text": "I was in a computer game. Funny as hell, it was the most horrible thing I could think of.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-07-27T03:08:30.353335Z"
-    },
-    {
-      "text": "All this time we got the fable of Sleeping Beauty wrong. The prince didn't kiss her to wake her up. No one who slept for a hundred years is likely to wake up. It was the other way round. He kisses her to wake himself up from the nightmare that has brought him there.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-07-28T03:06:04.222768Z"
-    },
-    {
       "text": "I was in a New York minute. In a New York minute, everything can change.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -185,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-08-26T02:32:02.627111Z"
+    },
+    {
+      "text": "The storm seemed to lose its frenzy. The ragged clouds gave way to the stars above.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-08-27T03:48:52.609547Z"
     }
   ]
 }
