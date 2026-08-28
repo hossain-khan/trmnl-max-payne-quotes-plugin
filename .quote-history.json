@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "I was in a New York minute. In a New York minute, everything can change.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-07-29T03:05:17.968456Z"
-    },
-    {
       "text": "He was trying to buy more sand for his hourglass. I wasn't selling any.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne",
       "selected_on": "2026-08-27T03:48:52.609547Z"
+    },
+    {
+      "text": "None of us was a saint.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-08-28T04:46:28.391672Z"
     }
   ]
 }
