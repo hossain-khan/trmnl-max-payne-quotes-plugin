@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "There are no choices. Nothing but a straight line. The illusion comes afterwards, when you ask 'Why me?' and 'What if?'",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-08-02T03:06:51.794941Z"
-    },
-    {
       "text": "Nothing to do but wait. Watching the dead-end street of my life. My brain felt like a migraine waiting to happen.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-09-01T02:18:49.465487Z"
+    },
+    {
+      "text": "I tried not to think about when it was that my existence became less about the things that make up people's lives and more about the holes that losing those things leave behind.",
+      "character": "Max Payne",
+      "game": "Max Payne 3",
+      "selected_on": "2026-09-02T02:34:09.533385Z"
     }
   ]
 }
