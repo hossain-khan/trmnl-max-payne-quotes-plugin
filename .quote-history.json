@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "The sun went down with practiced bravado. Twilight crawled across the sky, laden with foreboding.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-08-05T03:05:58.297091Z"
-    },
-    {
       "text": "The trouble with wanting something is the fear of losing it, or never getting it. The thought makes you weak.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne 3",
       "selected_on": "2026-09-04T02:17:51.526481Z"
+    },
+    {
+      "text": "Nothing to do but wait. Watching the dead-end street of my life. My brain felt like a migraine waiting to happen.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-09-05T02:16:52.236086Z"
     }
   ]
 }
