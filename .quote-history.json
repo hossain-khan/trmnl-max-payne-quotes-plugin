@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Your past has a way of sneaking up on you. You'll hear broken echoes of it everywhere, like a bad replay. You'll get mad at everyone for reminding you about it, even if it's all in your head.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-08-08T02:40:27.230362Z"
-    },
-    {
       "text": "Another dark, rainy night. Another police station. Another futile crusade for amends. Time moves forward, and nothing changes.",
       "character": "Max Payne",
       "game": "Max Payne 3",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-09-07T02:18:48.940025Z"
+    },
+    {
+      "text": "Life knows two miseries; getting what you don't want and not getting what you want.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-09-08T02:17:14.292010Z"
     }
   ]
 }
