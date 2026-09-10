@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "It was a classic mob hit. No worries. No fuss. Just another page in the obituaries.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-08-10T02:48:57.819570Z"
-    },
-    {
       "text": "Einstein was right, time is relative to the observer. When you're looking down the barrel of a gun, time slows down. Your whole life flashes by, heartbreak and scars. Stay with it, and you can live a lifetime in that split second.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-09-09T02:17:31.015290Z"
+    },
+    {
+      "text": "The sun went down with practiced bravado. Twilight crawled across the sky, laden with foreboding.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-09-10T02:17:47.769920Z"
     }
   ]
 }
