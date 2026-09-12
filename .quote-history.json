@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "If there's no light, it ain't a tunnel. It's a hole.",
-      "character": "Max Payne",
-      "game": "Max Payne 3",
-      "selected_on": "2026-08-12T02:55:10.661043Z"
-    },
-    {
       "text": "The genius of the hole: no matter how long you spend climbing out, you can still fall back down in an instant.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-09-11T02:17:39.645960Z"
+    },
+    {
+      "text": "It was a classic mob hit. No worries. No fuss. Just another page in the obituaries.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-09-12T02:17:28.998409Z"
     }
   ]
 }
