@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "I was still alive, and still not all that happy about it.",
-      "character": "Max Payne",
-      "game": "Max Payne 3",
-      "selected_on": "2026-08-15T02:24:10.045296Z"
-    },
-    {
       "text": "So much for a lazy Sunday afternoon.",
       "character": "Max Payne",
       "game": "Max Payne 3",
@@ -185,6 +179,12 @@
       "character": "Mona Sax",
       "game": "Max Payne 2",
       "selected_on": "2026-09-14T02:20:38.794857Z"
+    },
+    {
+      "text": "One thing left to do. I was compelled to give Vlad his gun back. One bullet at a time.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-09-15T02:18:36.747982Z"
     }
   ]
 }
