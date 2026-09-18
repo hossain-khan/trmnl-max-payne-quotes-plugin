@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "There are things in life you cannot choose: how you feel.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-08-18T02:25:43.538204Z"
-    },
-    {
       "text": "Vladimir Lem. Dearest of all my friends. If I had known, I wouldn't have hurt you.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne 3",
       "selected_on": "2026-09-17T02:17:53.564281Z"
+    },
+    {
+      "text": "He had a baseball bat, and I was tied to a chair. Pissing him off was the smart thing to do.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-09-18T02:17:07.319612Z"
     }
   ]
 }
