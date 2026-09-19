@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Vladimir Lem. Dearest of all my friends. If I had known, I wouldn't have hurt you.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-08-19T02:27:46.674345Z"
-    },
-    {
       "text": "I had a bullet. I had a gun. Time to go to work.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne",
       "selected_on": "2026-09-18T02:17:07.319612Z"
+    },
+    {
+      "text": "I had a hole in my second favorite drinking arm, and the only way out of the frozen storage was through the loading bay.",
+      "character": "Max Payne",
+      "game": "Max Payne 3",
+      "selected_on": "2026-09-19T02:16:49.170796Z"
     }
   ]
 }
