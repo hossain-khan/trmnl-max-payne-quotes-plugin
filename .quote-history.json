@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "I hadn't slept in a million years.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-08-23T02:31:07.781023Z"
-    },
-    {
       "text": "They were all dead. The final gunshot was an exclamation mark to everything that had led to this point. I released my finger from the trigger. And then it was over.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne",
       "selected_on": "2026-09-22T02:18:07.467857Z"
+    },
+    {
+      "text": "Another dark, rainy night. Another police station. Another futile crusade for amends. Time moves forward, and nothing changes.",
+      "character": "Max Payne",
+      "game": "Max Payne 3",
+      "selected_on": "2026-09-23T02:18:22.886615Z"
     }
   ]
 }
