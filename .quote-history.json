@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Firing a gun is a binary choice. Either you pull the trigger or you don't.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-08-26T02:32:02.627111Z"
-    },
-    {
       "text": "The storm seemed to lose its frenzy. The ragged clouds gave way to the stars above.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne",
       "selected_on": "2026-09-25T02:16:47.623883Z"
+    },
+    {
+      "text": "He was trying to buy more sand for his hourglass. I wasn't selling any.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-09-26T02:16:34.159217Z"
     }
   ]
 }
