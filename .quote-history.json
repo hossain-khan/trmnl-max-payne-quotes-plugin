@@ -1,18 +1,6 @@
 {
   "quotes": [
     {
-      "text": "None of us was a saint.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-08-28T04:46:28.391672Z"
-    },
-    {
-      "text": "I was in a computer game. Funny as hell, it was the most horrible thing I could think of.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-08-29T02:15:11.792949Z"
-    },
-    {
       "text": "When you're walking in heaven, the bad things are easier to believe.",
       "character": "Mona Sax",
       "game": "Max Payne 2",
@@ -185,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-09-27T02:21:12.363045Z"
+    },
+    {
+      "text": "Nothing is a cliché when it's happening to you.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-09-28T02:26:22.200793Z"
     }
   ]
 }
