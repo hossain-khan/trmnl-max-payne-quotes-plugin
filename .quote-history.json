@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "When you're walking in heaven, the bad things are easier to believe.",
-      "character": "Mona Sax",
-      "game": "Max Payne 2",
-      "selected_on": "2026-08-30T02:17:44.479297Z"
-    },
-    {
       "text": "I felt like the avenging angel. I looked like a fat bald dude with a bad temper.",
       "character": "Max Payne",
       "game": "Max Payne 3",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne",
       "selected_on": "2026-09-28T02:26:22.200793Z"
+    },
+    {
+      "text": "Life was good. The sun setting on a sweet summer's day, the smell of freshly mowed lawns, the sounds of children playing — A house across the river, on the Jersey-side. A beautiful wife and a baby girl. The American Dream come true. But dreams have a nasty habit of going bad when you're not looking.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-09-29T02:19:51.775848Z"
     }
   ]
 }
