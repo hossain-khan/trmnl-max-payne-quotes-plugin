@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "I felt like the avenging angel. I looked like a fat bald dude with a bad temper.",
-      "character": "Max Payne",
-      "game": "Max Payne 3",
-      "selected_on": "2026-08-31T02:18:52.696601Z"
-    },
-    {
       "text": "I didn't deserve to walk away. There are no happy endings.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne",
       "selected_on": "2026-09-29T02:19:51.775848Z"
+    },
+    {
+      "text": "I was still alive, and still not all that happy about it.",
+      "character": "Max Payne",
+      "game": "Max Payne 3",
+      "selected_on": "2026-09-30T02:23:08.040479Z"
     }
   ]
 }
