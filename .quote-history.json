@@ -1,18 +1,6 @@
 {
   "quotes": [
     {
-      "text": "When the darkness fell, New York City became something else, any old Sinatra song notwithstanding. Bad things happened in the night, on the streets of that other city. Noir York City.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-09-03T02:23:15.021730Z"
-    },
-    {
-      "text": "First day off the sauce and, somehow, I'd still ended up in the gutter.",
-      "character": "Max Payne",
-      "game": "Max Payne 3",
-      "selected_on": "2026-09-04T02:17:51.526481Z"
-    },
-    {
       "text": "Nothing to do but wait. Watching the dead-end street of my life. My brain felt like a migraine waiting to happen.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -185,6 +173,12 @@
       "character": "Mona Sax",
       "game": "Max Payne 2",
       "selected_on": "2026-10-03T02:19:12.198049Z"
+    },
+    {
+      "text": "I was in a New York minute. In a New York minute, everything can change.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-10-04T02:54:32.158534Z"
     }
   ]
 }
