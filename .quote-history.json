@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Sometimes, Mona, you gotta go down to get up.",
-      "character": "Mona Sax",
-      "game": "Max Payne 2",
-      "selected_on": "2026-09-06T02:17:11.285034Z"
-    },
-    {
       "text": "I had a dream of my wife. She was dead. But it was all right.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 3",
       "selected_on": "2026-10-05T02:28:46.254864Z"
+    },
+    {
+      "text": "I hadn't slept in a million years.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-10-06T02:21:21.019121Z"
     }
   ]
 }
