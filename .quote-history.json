@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "I had a dream of my wife. She was dead. But it was all right.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-09-07T02:18:48.940025Z"
-    },
-    {
       "text": "Life knows two miseries; getting what you don't want and not getting what you want.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne",
       "selected_on": "2026-10-06T02:21:21.019121Z"
+    },
+    {
+      "text": "I had a dream of my wife. She was dead. But it was all right.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-10-07T02:26:17.418865Z"
     }
   ]
 }
