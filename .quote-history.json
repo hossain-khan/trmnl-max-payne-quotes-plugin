@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Life knows two miseries; getting what you don't want and not getting what you want.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-09-08T02:17:14.292010Z"
-    },
-    {
       "text": "Your past has a way of sneaking up on you. You'll hear broken echoes of it everywhere, like a bad replay. You'll get mad at everyone for reminding you about it, even if it's all in your head.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-10-07T02:26:17.418865Z"
+    },
+    {
+      "text": "Like all the bad things in my life, it started with the death of a woman. I couldn't save her.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-10-08T02:25:13.823674Z"
     }
   ]
 }
