@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Your past has a way of sneaking up on you. You'll hear broken echoes of it everywhere, like a bad replay. You'll get mad at everyone for reminding you about it, even if it's all in your head.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-09-09T02:17:31.015290Z"
-    },
-    {
       "text": "The sun went down with practiced bravado. Twilight crawled across the sky, laden with foreboding.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-10-08T02:25:13.823674Z"
+    },
+    {
+      "text": "Vladimir Lem. Dearest of all my friends. If I had known, I wouldn't have hurt you.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-10-09T02:26:18.753434Z"
     }
   ]
 }
