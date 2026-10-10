@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "The sun went down with practiced bravado. Twilight crawled across the sky, laden with foreboding.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-09-10T02:17:47.769920Z"
-    },
-    {
       "text": "I lied to myself that it was over. I was still alive, my loved ones were still dead. It wasn't over.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-10-09T02:26:18.753434Z"
+    },
+    {
+      "text": "The genius of the hole: no matter how long you spend climbing out, you can still fall back down in an instant.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-10-10T02:25:12.392509Z"
     }
   ]
 }
