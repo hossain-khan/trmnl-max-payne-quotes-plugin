@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "I lied to myself that it was over. I was still alive, my loved ones were still dead. It wasn't over.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-09-11T02:17:39.645960Z"
-    },
-    {
       "text": "It was a classic mob hit. No worries. No fuss. Just another page in the obituaries.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -179,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-10-10T02:25:12.392509Z"
+    },
+    {
+      "text": "I ain't slipping, man — I'm slipped. I'm a bad joke.",
+      "character": "Max Payne",
+      "game": "Max Payne 3",
+      "selected_on": "2026-10-11T02:27:12.225952Z"
     }
   ]
 }
