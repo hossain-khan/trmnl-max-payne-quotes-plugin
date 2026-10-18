@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "There it was — the soundtrack to my life. And, for a few seconds, came harmony. Finally...",
-      "character": "Max Payne",
-      "game": "Max Payne 3",
-      "selected_on": "2026-09-17T02:17:53.564281Z"
-    },
-    {
       "text": "He had a baseball bat, and I was tied to a chair. Pissing him off was the smart thing to do.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne",
       "selected_on": "2026-10-17T02:16:01.430737Z"
+    },
+    {
+      "text": "Nothing to do but wait. Watching the dead-end street of my life. My brain felt like a migraine waiting to happen.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-10-18T02:16:05.500708Z"
     }
   ]
 }
