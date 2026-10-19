@@ -1,18 +1,6 @@
 {
   "quotes": [
     {
-      "text": "He had a baseball bat, and I was tied to a chair. Pissing him off was the smart thing to do.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-09-18T02:17:07.319612Z"
-    },
-    {
-      "text": "I had a hole in my second favorite drinking arm, and the only way out of the frozen storage was through the loading bay.",
-      "character": "Max Payne",
-      "game": "Max Payne 3",
-      "selected_on": "2026-09-19T02:16:49.170796Z"
-    },
-    {
       "text": "The past is a gaping hole. You try to run from it, but the more you run, the deeper, more terrible it grows behind you, its edges yawning at your heels.",
       "character": "Max Payne",
       "game": "Max Payne 2",
@@ -185,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-10-18T02:16:05.500708Z"
+    },
+    {
+      "text": "First day off the sauce and, somehow, I'd still ended up in the gutter.",
+      "character": "Max Payne",
+      "game": "Max Payne 3",
+      "selected_on": "2026-10-19T02:19:54.918381Z"
     }
   ]
 }
