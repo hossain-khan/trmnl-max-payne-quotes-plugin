@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "I don't know about angels, but it's fear that gives men wings.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-09-22T02:18:07.467857Z"
-    },
-    {
       "text": "Another dark, rainy night. Another police station. Another futile crusade for amends. Time moves forward, and nothing changes.",
       "character": "Max Payne",
       "game": "Max Payne 3",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-10-22T02:18:00.972836Z"
+    },
+    {
+      "text": "What are you so afraid of? What do you want from me?",
+      "character": "Mona Sax",
+      "game": "Max Payne 2",
+      "selected_on": "2026-10-23T02:18:10.176824Z"
     }
   ]
 }
