@@ -1,18 +1,6 @@
 {
   "quotes": [
     {
-      "text": "All this time we got the fable of Sleeping Beauty wrong. The prince didn't kiss her to wake her up. No one who slept for a hundred years is likely to wake up. It was the other way round. He kisses her to wake himself up from the nightmare that has brought him there.",
-      "character": "Max Payne",
-      "game": "Max Payne 2",
-      "selected_on": "2026-09-24T02:18:08.861350Z"
-    },
-    {
-      "text": "I had a bullet. I had a gun. Time to go to work.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-09-25T02:16:47.623883Z"
-    },
-    {
       "text": "He was trying to buy more sand for his hourglass. I wasn't selling any.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -185,6 +173,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-10-24T02:15:55.642668Z"
+    },
+    {
+      "text": "The storm seemed to lose its frenzy. The ragged clouds gave way to the stars above.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-10-25T02:17:38.235840Z"
     }
   ]
 }
