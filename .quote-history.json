@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Life was good. The sun setting on a sweet summer's day, the smell of freshly mowed lawns, the sounds of children playing — A house across the river, on the Jersey-side. A beautiful wife and a baby girl. The American Dream come true. But dreams have a nasty habit of going bad when you're not looking.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-09-29T02:19:51.775848Z"
-    },
-    {
       "text": "I was still alive, and still not all that happy about it.",
       "character": "Max Payne",
       "game": "Max Payne 3",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne 3",
       "selected_on": "2026-10-29T02:12:57.054722Z"
+    },
+    {
+      "text": "I lied to myself that it was over. I was still alive, my loved ones were still dead. It wasn't over.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-10-30T02:13:06.305801Z"
     }
   ]
 }
