@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "God, I turned out to be such a damsel in distress.",
-      "character": "Mona Sax",
-      "game": "Max Payne 2",
-      "selected_on": "2026-10-03T02:19:12.198049Z"
-    },
-    {
       "text": "I was in a New York minute. In a New York minute, everything can change.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-11-02T02:11:42.323328Z"
+    },
+    {
+      "text": "The past is a gaping hole. You try to run from it, but the more you run, the deeper, more terrible it grows behind you, its edges yawning at your heels.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-11-03T02:11:02.418697Z"
     }
   ]
 }
