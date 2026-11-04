@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "I was in a New York minute. In a New York minute, everything can change.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-10-04T02:54:32.158534Z"
-    },
-    {
       "text": "The way I see it there's two types of people: those who spend their lives trying to build a future and those who spend their lives trying to rebuild the past.",
       "character": "Max Payne",
       "game": "Max Payne 3",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-11-03T02:11:02.418697Z"
+    },
+    {
+      "text": "Life was good. The sun setting on a sweet summer's day, the smell of freshly mowed lawns, the sounds of children playing — A house across the river, on the Jersey-side. A beautiful wife and a baby girl. The American Dream come true. But dreams have a nasty habit of going bad when you're not looking.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-11-04T02:10:03.736719Z"
     }
   ]
 }
