@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "The sun went down with practiced bravado. Twilight crawled across the sky, laden with foreboding.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-10-12T02:34:16.440738Z"
-    },
-    {
       "text": "If there's no light, it ain't a tunnel. It's a hole.",
       "character": "Max Payne",
       "game": "Max Payne 3",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne",
       "selected_on": "2026-11-11T02:09:44.554726Z"
+    },
+    {
+      "text": "The sun went down with practiced bravado. Twilight crawled across the sky, laden with foreboding.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-11-12T02:11:09.124661Z"
     }
   ]
 }
