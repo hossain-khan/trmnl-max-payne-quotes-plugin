@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "The storm seemed to lose its frenzy. The ragged clouds gave way to the stars above.",
-      "character": "Max Payne",
-      "game": "Max Payne",
-      "selected_on": "2026-10-25T02:17:38.235840Z"
-    },
-    {
       "text": "I don't know about angels, but it's fear that gives men wings.",
       "character": "Max Payne",
       "game": "Max Payne",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne 2",
       "selected_on": "2026-11-24T02:11:31.196534Z"
+    },
+    {
+      "text": "Einstein was right, time is relative to the observer. When you're looking down the barrel of a gun, time slows down. Your whole life flashes by, heartbreak and scars. Stay with it, and you can live a lifetime in that split second.",
+      "character": "Max Payne",
+      "game": "Max Payne 2",
+      "selected_on": "2026-11-25T02:11:36.952498Z"
     }
   ]
 }
