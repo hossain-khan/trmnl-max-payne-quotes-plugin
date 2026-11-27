@@ -1,12 +1,6 @@
 {
   "quotes": [
     {
-      "text": "Sometimes, Mona, you gotta go down to get up.",
-      "character": "Mona Sax",
-      "game": "Max Payne 2",
-      "selected_on": "2026-10-27T02:19:10.366751Z"
-    },
-    {
       "text": "I had a hole in my second favorite drinking arm, and the only way out of the frozen storage was through the loading bay.",
       "character": "Max Payne",
       "game": "Max Payne 3",
@@ -185,6 +179,12 @@
       "character": "Max Payne",
       "game": "Max Payne 3",
       "selected_on": "2026-11-26T02:11:19.107118Z"
+    },
+    {
+      "text": "One thing you can count on: You push a man too far, and sooner or later he'll start pushing back.",
+      "character": "Max Payne",
+      "game": "Max Payne",
+      "selected_on": "2026-11-27T02:11:22.122808Z"
     }
   ]
 }
